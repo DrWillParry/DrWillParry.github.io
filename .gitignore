@@ -1,7 +1,5 @@
-# Ignore everything
-/*
-/*/
 
-# Reinstate docs folder
-!/docs/
+.Rproj.user
+*.Rproj
+
 

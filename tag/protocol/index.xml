@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Protocol | Will Parry</title>
+    <link>/tag/protocol/</link>
+      <atom:link href="/tag/protocol/index.xml" rel="self" type="application/rss+xml" />
+    <description>Protocol</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hub885ae30bc1b39ad28e29a7a752830b3_1928_512x512_fill_lanczos_center_2.png</url>
+      <title>Protocol</title>
+      <link>/tag/protocol/</link>
+    </image>
+    
+    <item>
+      <title>Statistical analysis protocol for an evaluation of COVID Oximetry @home using a Regression Discontinuity Design</title>
+      <link>/publication/lloyd2020/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/lloyd2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
