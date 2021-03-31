@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dreyer K | Will Parry</title>
+    <link>/author/dreyer-k/</link>
+      <atom:link href="/author/dreyer-k/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dreyer K</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hub885ae30bc1b39ad28e29a7a752830b3_1928_512x512_fill_lanczos_center_2.png</url>
+      <title>Dreyer K</title>
+      <link>/author/dreyer-k/</link>
+    </image>
+    
+    <item>
+      <title>A descriptive analysis of health care use by high cost, high need patients in England</title>
+      <link>/publication/dreyer2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/dreyer2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
