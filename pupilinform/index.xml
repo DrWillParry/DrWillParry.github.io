@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Will Parry</title>
+    <link>/pupilinform/</link>
+      <atom:link href="/pupilinform/index.xml" rel="self" type="application/rss+xml" />
+    <description>Will Parry</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hub885ae30bc1b39ad28e29a7a752830b3_1928_512x512_fill_lanczos_center_2.png</url>
+      <title>Will Parry</title>
+      <link>/pupilinform/</link>
+    </image>
+    
+  </channel>
+</rss>
