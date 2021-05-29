@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jamal F | Will Parry</title>
+    <link>/author/jamal-f/</link>
+      <atom:link href="/author/jamal-f/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jamal F</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Sat, 01 Jun 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu9982122b175a289e2b783b778a29c39e_1877_512x512_fill_lanczos_center_2.PNG</url>
+      <title>Jamal F</title>
+      <link>/author/jamal-f/</link>
+    </image>
+    
+    <item>
+      <title>Systematic review of the effects of schools and school environment interventions on health: evidence mapping and synthesis</title>
+      <link>/publication/bonnell2013a/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/bonnell2013a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effects of the school environment on student health - A systematic review of multi-level studies</title>
+      <link>/publication/bonnell2013/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/bonnell2013/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

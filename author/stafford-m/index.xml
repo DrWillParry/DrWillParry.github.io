@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stafford M | Will Parry</title>
+    <link>/author/stafford-m/</link>
+      <atom:link href="/author/stafford-m/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stafford M</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu9982122b175a289e2b783b778a29c39e_1877_512x512_fill_lanczos_center_2.PNG</url>
+      <title>Stafford M</title>
+      <link>/author/stafford-m/</link>
+    </image>
+    
+    <item>
+      <title>Inequalities in health care for people with depression and/or anxiety</title>
+      <link>/publication/hodgson2020/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/hodgson2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lloyd J | Will Parry</title>
+    <link>/author/lloyd-j/</link>
+      <atom:link href="/author/lloyd-j/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lloyd J</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu9982122b175a289e2b783b778a29c39e_1877_512x512_fill_lanczos_center_2.PNG</url>
+      <title>Lloyd J</title>
+      <link>/author/lloyd-j/</link>
+    </image>
+    
+    <item>
+      <title>Older Owners - Research on the lives, aspirations and housing outcomes of older homeowners in the UK</title>
+      <link>/publication/lloyd2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/lloyd2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Income Security and a Good Retirement</title>
+      <link>/publication/parry2015a/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/parry2015a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
