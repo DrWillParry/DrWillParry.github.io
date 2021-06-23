@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wolters A T | Will Parry</title>
-    <link>/author/wolters-a-t/</link>
-      <atom:link href="/author/wolters-a-t/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://willparry.net/author/wolters-a-t/</link>
+      <atom:link href="https://willparry.net/author/wolters-a-t/index.xml" rel="self" type="application/rss+xml" />
     <description>Wolters A T</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Fri, 05 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu9982122b175a289e2b783b778a29c39e_1877_512x512_fill_lanczos_center_2.PNG</url>
+      <url>https://willparry.net/images/icon_hu9982122b175a289e2b783b778a29c39e_1877_512x512_fill_lanczos_center_2.PNG</url>
       <title>Wolters A T</title>
-      <link>/author/wolters-a-t/</link>
+      <link>https://willparry.net/author/wolters-a-t/</link>
     </image>
     
     <item>
       <title>Effect of an integrated care pathway on use of primary and secondary healthcare by patients at high risk of emergency inpatient admission - a matched control cohort study in Tower Hamlets</title>
-      <link>/publication/parry2019/</link>
+      <link>https://willparry.net/publication/parry2019/</link>
       <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/parry2019/</guid>
+      <guid>https://willparry.net/publication/parry2019/</guid>
       <description></description>
     </item>
     

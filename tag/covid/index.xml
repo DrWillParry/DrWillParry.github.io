@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>COVID | Will Parry</title>
-    <link>/tag/covid/</link>
-      <atom:link href="/tag/covid/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://willparry.net/tag/covid/</link>
+      <atom:link href="https://willparry.net/tag/covid/index.xml" rel="self" type="application/rss+xml" />
     <description>COVID</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu9982122b175a289e2b783b778a29c39e_1877_512x512_fill_lanczos_center_2.PNG</url>
+      <url>https://willparry.net/images/icon_hu9982122b175a289e2b783b778a29c39e_1877_512x512_fill_lanczos_center_2.PNG</url>
       <title>COVID</title>
-      <link>/tag/covid/</link>
+      <link>https://willparry.net/tag/covid/</link>
     </image>
     
     <item>
       <title>Statistical analysis protocol for an evaluation of COVID Oximetry @home using a Regression Discontinuity Design</title>
-      <link>/publication/lloyd2020/</link>
+      <link>https://willparry.net/publication/lloyd2020/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/lloyd2020/</guid>
+      <guid>https://willparry.net/publication/lloyd2020/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bracewell K | Will Parry</title>
-    <link>/author/bracewell-k/</link>
-      <atom:link href="/author/bracewell-k/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://willparry.net/author/bracewell-k/</link>
+      <atom:link href="https://willparry.net/author/bracewell-k/index.xml" rel="self" type="application/rss+xml" />
     <description>Bracewell K</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu9982122b175a289e2b783b778a29c39e_1877_512x512_fill_lanczos_center_2.PNG</url>
+      <url>https://willparry.net/images/icon_hu9982122b175a289e2b783b778a29c39e_1877_512x512_fill_lanczos_center_2.PNG</url>
       <title>Bracewell K</title>
-      <link>/author/bracewell-k/</link>
+      <link>https://willparry.net/author/bracewell-k/</link>
     </image>
     
     <item>
       <title>Evaluation of Pause</title>
-      <link>/publication/mccracken2017/</link>
+      <link>https://willparry.net/publication/mccracken2017/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/mccracken2017/</guid>
+      <guid>https://willparry.net/publication/mccracken2017/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Quasi-experiment | Will Parry</title>
-    <link>/tag/quasi-experiment/</link>
-      <atom:link href="/tag/quasi-experiment/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://willparry.net/tag/quasi-experiment/</link>
+      <atom:link href="https://willparry.net/tag/quasi-experiment/index.xml" rel="self" type="application/rss+xml" />
     <description>Quasi-experiment</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu9982122b175a289e2b783b778a29c39e_1877_512x512_fill_lanczos_center_2.PNG</url>
+      <url>https://willparry.net/images/icon_hu9982122b175a289e2b783b778a29c39e_1877_512x512_fill_lanczos_center_2.PNG</url>
       <title>Quasi-experiment</title>
-      <link>/tag/quasi-experiment/</link>
+      <link>https://willparry.net/tag/quasi-experiment/</link>
     </image>
     
     <item>
       <title>Statistical analysis protocol for an evaluation of COVID Oximetry @home using a Regression Discontinuity Design</title>
-      <link>/publication/lloyd2020/</link>
+      <link>https://willparry.net/publication/lloyd2020/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/lloyd2020/</guid>
+      <guid>https://willparry.net/publication/lloyd2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluation of Pause</title>
-      <link>/publication/mccracken2017/</link>
+      <link>https://willparry.net/publication/mccracken2017/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/mccracken2017/</guid>
+      <guid>https://willparry.net/publication/mccracken2017/</guid>
       <description></description>
     </item>
     

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Will Parry</title>
-    <link>/publication-type/2/</link>
-      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://willparry.net/publication-type/2/</link>
+      <atom:link href="https://willparry.net/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Fri, 05 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu9982122b175a289e2b783b778a29c39e_1877_512x512_fill_lanczos_center_2.PNG</url>
+      <url>https://willparry.net/images/icon_hu9982122b175a289e2b783b778a29c39e_1877_512x512_fill_lanczos_center_2.PNG</url>
       <title>2</title>
-      <link>/publication-type/2/</link>
+      <link>https://willparry.net/publication-type/2/</link>
     </image>
     
     <item>
       <title>Effect of an integrated care pathway on use of primary and secondary healthcare by patients at high risk of emergency inpatient admission - a matched control cohort study in Tower Hamlets</title>
-      <link>/publication/parry2019/</link>
+      <link>https://willparry.net/publication/parry2019/</link>
       <pubDate>Fri, 05 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/parry2019/</guid>
+      <guid>https://willparry.net/publication/parry2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Systematic review of the effects of schools and school environment interventions on health: evidence mapping and synthesis</title>
-      <link>/publication/bonnell2013a/</link>
+      <link>https://willparry.net/publication/bonnell2013a/</link>
       <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/bonnell2013a/</guid>
+      <guid>https://willparry.net/publication/bonnell2013a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The effects of the school environment on student health - A systematic review of multi-level studies</title>
-      <link>/publication/bonnell2013/</link>
+      <link>https://willparry.net/publication/bonnell2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/bonnell2013/</guid>
+      <guid>https://willparry.net/publication/bonnell2013/</guid>
       <description></description>
     </item>
     

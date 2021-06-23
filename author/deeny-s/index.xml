@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deeny S | Will Parry</title>
-    <link>/author/deeny-s/</link>
-      <atom:link href="/author/deeny-s/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://willparry.net/author/deeny-s/</link>
+      <atom:link href="https://willparry.net/author/deeny-s/index.xml" rel="self" type="application/rss+xml" />
     <description>Deeny S</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Tue, 03 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu9982122b175a289e2b783b778a29c39e_1877_512x512_fill_lanczos_center_2.PNG</url>
+      <url>https://willparry.net/images/icon_hu9982122b175a289e2b783b778a29c39e_1877_512x512_fill_lanczos_center_2.PNG</url>
       <title>Deeny S</title>
-      <link>/author/deeny-s/</link>
+      <link>https://willparry.net/author/deeny-s/</link>
     </image>
     
     <item>
       <title>Inequalities in health care for people with depression and/or anxiety</title>
-      <link>/publication/hodgson2020/</link>
+      <link>https://willparry.net/publication/hodgson2020/</link>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/hodgson2020/</guid>
+      <guid>https://willparry.net/publication/hodgson2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A descriptive analysis of health care use by highcost, high-need patients in England</title>
-      <link>/publication/dreyer2019/</link>
+      <link>https://willparry.net/publication/dreyer2019/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/dreyer2019/</guid>
+      <guid>https://willparry.net/publication/dreyer2019/</guid>
       <description></description>
     </item>
     

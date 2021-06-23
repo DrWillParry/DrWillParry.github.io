@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Education | Will Parry</title>
-    <link>/tag/education/</link>
-      <atom:link href="/tag/education/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://willparry.net/tag/education/</link>
+      <atom:link href="https://willparry.net/tag/education/index.xml" rel="self" type="application/rss+xml" />
     <description>Education</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Mon, 01 Apr 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu9982122b175a289e2b783b778a29c39e_1877_512x512_fill_lanczos_center_2.PNG</url>
+      <url>https://willparry.net/images/icon_hu9982122b175a289e2b783b778a29c39e_1877_512x512_fill_lanczos_center_2.PNG</url>
       <title>Education</title>
-      <link>/tag/education/</link>
+      <link>https://willparry.net/tag/education/</link>
     </image>
     
     <item>
       <title>Education Committee: Written Evidence Submitted by Will Parry, Department of Quantitative Social Science, Institute of Education, University of London</title>
-      <link>/publication/parry2013a/</link>
+      <link>https://willparry.net/publication/parry2013a/</link>
       <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
-      <guid>/publication/parry2013a/</guid>
+      <guid>https://willparry.net/publication/parry2013a/</guid>
       <description></description>
     </item>
     

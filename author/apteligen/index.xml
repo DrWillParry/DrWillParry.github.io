@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apteligen | Will Parry</title>
-    <link>/author/apteligen/</link>
-      <atom:link href="/author/apteligen/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://willparry.net/author/apteligen/</link>
+      <atom:link href="https://willparry.net/author/apteligen/index.xml" rel="self" type="application/rss+xml" />
     <description>Apteligen</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu9982122b175a289e2b783b778a29c39e_1877_512x512_fill_lanczos_center_2.PNG</url>
+      <url>https://willparry.net/images/icon_hu9982122b175a289e2b783b778a29c39e_1877_512x512_fill_lanczos_center_2.PNG</url>
       <title>Apteligen</title>
-      <link>/author/apteligen/</link>
+      <link>https://willparry.net/author/apteligen/</link>
     </image>
     
     <item>
       <title>Review of the Cost of Providing Quality Childcare Services in Ireland</title>
-      <link>/publication/crowe2020/</link>
+      <link>https://willparry.net/publication/crowe2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/crowe2020/</guid>
+      <guid>https://willparry.net/publication/crowe2020/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Will Parry</title>
-    <link>/author/will-parry/</link>
-      <atom:link href="/author/will-parry/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://willparry.net/author/will-parry/</link>
+      <atom:link href="https://willparry.net/author/will-parry/index.xml" rel="self" type="application/rss+xml" />
     <description>Will Parry</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Wed, 01 Jun 2011 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu9982122b175a289e2b783b778a29c39e_1877_512x512_fill_lanczos_center_2.PNG</url>
+      <url>https://willparry.net/images/icon_hu9982122b175a289e2b783b778a29c39e_1877_512x512_fill_lanczos_center_2.PNG</url>
       <title>Will Parry</title>
-      <link>/author/will-parry/</link>
+      <link>https://willparry.net/author/will-parry/</link>
     </image>
     
     <item>
       <title>Simple but effective: Local solutions for adults facing multiple deprivation (Adults facing Chronic Exclusion evaluation)</title>
-      <link>/publication/dclg2011/</link>
+      <link>https://willparry.net/publication/dclg2011/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 +0000</pubDate>
-      <guid>/publication/dclg2011/</guid>
+      <guid>https://willparry.net/publication/dclg2011/</guid>
       <description></description>
     </item>
     
