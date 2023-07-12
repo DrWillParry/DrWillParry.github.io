@@ -1,0 +1,22 @@
+---
+title: "Projects"
+listing: 
+  type: table
+  contents: projects
+  sort: 
+    - "date desc"
+    - "title"
+  table-striped: true
+  table-hover: false
+  sort-ui: [date, title, publication desc]
+  page-size: 999
+  categories: true
+  fields: [date, title, author, published]
+  field-display-names:
+    published: "Published"
+  date-format: MMM YYYY
+format: 
+  html:
+    page-layout: full
+---
+<!-- template: projects/listing_template.ejs -->

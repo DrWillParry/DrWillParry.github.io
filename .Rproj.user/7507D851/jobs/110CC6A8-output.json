@@ -1,0 +1,6 @@
+[2,"\n"]
+[1,"pandoc \n  to: html\n  output-file: projects.html\n  standalone: true\n  title-prefix: Will Parry\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  css:\n    - styles.css\n  toc: true\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  theme: sandstone\n  header-includes:\n    - |\n      <link rel=\"stylesheet\" media=\"all\" href=\"https://fonts.googleapis.com/css2?family=Montserrat&amp;family=Questria&amp;family=Cutive+Mono&amp;display=swap\" type=\"text/css\"/>\n  mainfont: Montserrat\n  linkcolor: '#1565C0'\n  fontsize: 1em\n  margin-top: '50'\n  title: Projects\n  listing:\n    type: table\n    contents: projects\n    sort:\n      - date desc\n      - title\n    table-striped: true\n    table-hover: false\n    sort-ui:\n      - date\n      - title\n      - publication desc\n    page-size: 999\n    categories: true\n    fields:\n      - date\n      - title\n      - author\n      - published\n    field-display-names:\n      published: Published\n    date-format: MMM YYYY\n  page-layout: full\n  \n"]
+[1,"Output created: docs\\projects.html\n\nPreparing to preview\n"]
+[1,"\nWatching files for changes\n"]
+[1,"Browse at http://localhost:3863/projects.html\n"]
+[1,"GET: /\n"]
