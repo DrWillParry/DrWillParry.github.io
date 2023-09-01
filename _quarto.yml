@@ -24,17 +24,12 @@ website:
       - icon: linkedin
         text: LinkedIn
         aria-label: LinkedIn
-        href: https://www.linkedin.com/DrWillParry
+        href: https://www.linkedin.com/in/DrWillParry
         target: _blank
       - icon: mastodon
         text: Mastodon
         aria-label: Mastodon
         href: https://mastodon.online/@DrWillParry
-        target: _blank
-      - icon: github
-        text: GitHub
-        aria-label: GitHub
-        href: https://github.com/DrWillParry
         target: _blank
 format:
   html:
