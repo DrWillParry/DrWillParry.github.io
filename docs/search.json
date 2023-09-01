@@ -1,16 +1,380 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Will Parry",
-    "section": "",
-    "text": "LinkedIn\n  \n  \n    \n     Mastodon\n  \n  \n    \n     GitHub\n  \n\n  \n  \nI am a British social scientist, statistician and data scientist with over 18 years’ experience in research and consultancy.\nI work as a freelance consultant for a variety of clients including government departments, the NHS, academia, research consultancies, think tanks, charities, the voluntary sector, and others in the UK and Europe.\nI am keen on all things scientific and regard myself a ‘skeptic with a k’. I have previously taught statistical and survey methods, software skills for data analysis, critical thinking skills and the scientific method.\n\n\n\n\n\n\nEducation\nInstitute of Education, UCL | London, UK\nPhD Quantitative Social Science | 2015\nLondon School of Economics | London, UK\nMSc Social Research Methods | 2008\nUniversity of Bath | Bath, UK\nBEng (hons.) Materials Science & Engineering | 2002\n\n\n\n\n\nInterests\n\nRstats programming\nOpen access science\nQuasi-experiments\nPublic policy evaluation\nSocial psychology\nMusic & revolution\n\n\n\n\n\n\n\n\n Back to top"
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
     "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\nPublished\n\n\n\n\n\n\nJan 2024\n\n\nAssociation between consultation mode and continuity of care in general practice before and during the COVID-19 pandemic\n\n\nParry W, Fraser C, Crellin E, Hughes J, Vestesson E, Clarke G M\n\n\nIn review\n\n\n\n\nNov 2021\n\n\nCOVID Oximetry @home (CO@h) - Feasibility analysis for evaluation of CO@h using regression discontinuity\n\n\nParry W, Lloyd T\n\n\nPDF\n\n\n\n\nMar 2021\n\n\nStatistical analysis protocol for an evaluation of COVID Oximetry @home using a Regression Discontinuity Design\n\n\nLloyd T, Parry W\n\n\nPDF Web\n\n\n\n\nNov 2020\n\n\nCommon mental health disorders and multimorbidity\n\n\nHodgson K, Stafford M, Parry W\n\n\nPDF Web Code\n\n\n\n\nMar 2020\n\n\nReview of the Cost of Providing Quality Childcare Services in Ireland\n\n\nCrowe , Mackay S, Parry W\n\n\nSummary PDF Report PDF\n\n\n\n\nOct 2019\n\n\nA descriptive analysis of health care use by highcost, high-need patients in England\n\n\nDreyer K, Parry W, Jayatunga W, Deeny S\n\n\nPDF Web Code\n\n\n\n\nApr 2019\n\n\nEffect of an integrated care pathway on use of primary and secondary healthcare by patients at high risk of emergency inpatient admission - a matched control cohort study in Tower Hamlets\n\n\nParry W, Wolters A T, Brine R J, Steventon A\n\n\nJournal article\n\n\n\n\nJul 2017\n\n\nEvaluation of Pause\n\n\nMcCracken K, Priest S, FitzSimons A, Bracewell K, Torchia K, Parry W, Stanley N\n\n\nPDF Web\n\n\n\n\nOct 2015\n\n\nOlder Owners - Research on the lives, aspirations and housing outcomes of older homeowners in the UK\n\n\nLloyd J, Parry W\n\n\nResearch PDF Policy PDF\n\n\n\n\nJul 2015\n\n\nIncome security and a good retirement\n\n\nParry W, Lloyd J\n\n\nResearch PDF Policy PDF\n\n\n\n\nApr 2015\n\n\nAnalysis of political parties’ and independent candidates’ policies for gender balance in the European Parliament after the elections of 2014\n\n\nMcCracken K, Lovenduski J, Marquez S, Parry W, Niżyńska A, Várnagy R, Ghailani D, Šidlauskienė V\n\n\nPDF\n\n\n\n\nFeb 2015\n\n\nDo Active Children Become Active Adults? Investigating Experiences of Sport and Exercise Using the 1970 British Cohort Study\n\n\nParry W\n\n\nPDF Web\n\n\n\n\nAug 2013\n\n\nExperiences of physical activity at age 10 in the 1970 British Cohort Study\n\n\nParry W\n\n\nPDF\n\n\n\n\nJun 2013\n\n\nSystematic review of the effects of schools and school environment interventions on health: evidence mapping and synthesis\n\n\nBonnell C, Jamal F, Harden A, Wells H, Parry W, Fletcher A\n\n\nJournal article\n\n\n\n\nApr 2013\n\n\nEducation Committee: Written Evidence Submitted by Will Parry, Department of Quantitative Social Science, Institute of Education\n\n\nParry W\n\n\nPDF Web\n\n\n\n\nJan 2013\n\n\nThe effects of the school environment on student health - A systematic review of multi-level studies\n\n\nBonnell C, Parry W, Wells H, Jamal F, Fletcher A, Harden A, Thomas J, Campbell R, Petticrew M, Murphy S, Whitehead M, Moore L\n\n\nJournal article\n\n\n\n\nJun 2011\n\n\nSimple but effective: Local solutions for adults facing multiple deprivation (Adults facing Chronic Exclusion evaluation)\n\n\nJack Cattell, Alan Mackie, Kate Gibson, Tom Hitchins, Will Parry, Lucas Porsch, Joe Savage\n\n\nSummary PDF Report PDF\n\n\n\n\n\n\nNo matching items\n\n Back to top"
+  },
+  {
+    "objectID": "projects/2011 DCLG - ACE evaluation.html",
+    "href": "projects/2011 DCLG - ACE evaluation.html",
+    "title": "Simple but effective: Local solutions for adults facing multiple deprivation (Adults facing Chronic Exclusion evaluation)",
+    "section": "",
+    "text": "Summary PDF\nReport PDF"
+  },
+  {
+    "objectID": "projects/2011 DCLG - ACE evaluation.html#links",
+    "href": "projects/2011 DCLG - ACE evaluation.html#links",
+    "title": "Simple but effective: Local solutions for adults facing multiple deprivation (Adults facing Chronic Exclusion evaluation)",
+    "section": "",
+    "text": "Summary PDF\nReport PDF"
+  },
+  {
+    "objectID": "projects/2011 DCLG - ACE evaluation.html#summary",
+    "href": "projects/2011 DCLG - ACE evaluation.html#summary",
+    "title": "Simple but effective: Local solutions for adults facing multiple deprivation (Adults facing Chronic Exclusion evaluation)",
+    "section": "Summary",
+    "text": "Summary\nThe Adults facing Chronic Exclusion pilots provide front line services to individuals with complex needs (and which are not conventionally met by statutory services) with the aim of improving local delivery while reducing the total cost of providing support. Each pilot has a different service delivery model; however, all are based on the idea that an effective response to chaos and entrenched deprivation is a consistent, trusted adult who can advocate between local services and service users."
+  },
+  {
+    "objectID": "projects/2011 DCLG - ACE evaluation.html#main-findings-and-implications",
+    "href": "projects/2011 DCLG - ACE evaluation.html#main-findings-and-implications",
+    "title": "Simple but effective: Local solutions for adults facing multiple deprivation (Adults facing Chronic Exclusion evaluation)",
+    "section": "Main findings and implications",
+    "text": "Main findings and implications\nThe main findings of this report are:\n\nThe client group comprised some of the most chaotic or isolated individuals in a local community, who were hard to reach and difficult to engage. The success of the programme should be interpreted in this light.\nThe work of the pilots was not expensive. Most of the expense was attributable to members of staff working one-to-one with clients or in group work.\nThe pilot workers often worked as consistent, trusted adults. They worked effectively with the most chaotic and isolated adults to help them navigate the local services and move between transition points in their lives. The pilots were effective in bringing about better outcomes for the individuals, particularly in terms of health.\nThe consistency of the pilot workers was beneficial to persuading local services to engage with the client group, even in circumstances where clients had been previously denied or not engaged. The pilots were effective at bringing about changes in local service delivery by ensuring that services were open to all.\nAlthough the work of the pilots saw an increase in expenditure on these adults, expenditure was on beneficial services that were good for the clients – health and accommodation – or those that helped to stabilise the client, such as benefits.\nIt is reasonable to assume that the effectiveness of the pilots will become more obvious as they work with clients over a longer period of time.\n\nThese findings demonstrate implications for the pilots, local commissioners and policy makers (see change below) in central and local government. The implications for each are described below.\nPilots need to ensure that their services fit with local priorities and commissioning strategy and that they demonstrate the value of the consistent, trusted adult.\nLocal commissioners need to recognise that Adults facing Chronic Exclusion clients are entitled to services and benefits and that by allowing these clients to work with consistent, trusted adults, their staff are better supported to provide the service to this difficult group and allow them to access services appropriately.\nFor policy makers, while there is little evidence that costs are shifting from centrally-funded emergency services to locally-funded health services, it is apparent that these services are being used more appropriately. The Adults facing Chronic Exclusion programmes have demonstrated the value of the consistent, trusted adult that can be applied to move individuals to employment and improved accommodation."
+  },
+  {
+    "objectID": "projects/2013 Bonnell - Review of multilevel modelling studies.html",
+    "href": "projects/2013 Bonnell - Review of multilevel modelling studies.html",
+    "title": "The effects of the school environment on student health - A systematic review of multi-level studies",
+    "section": "",
+    "text": "Journal article"
+  },
+  {
+    "objectID": "projects/2013 Bonnell - Review of multilevel modelling studies.html#links",
+    "href": "projects/2013 Bonnell - Review of multilevel modelling studies.html#links",
+    "title": "The effects of the school environment on student health - A systematic review of multi-level studies",
+    "section": "",
+    "text": "Journal article"
+  },
+  {
+    "objectID": "projects/2013 Bonnell - Review of multilevel modelling studies.html#abstract",
+    "href": "projects/2013 Bonnell - Review of multilevel modelling studies.html#abstract",
+    "title": "The effects of the school environment on student health - A systematic review of multi-level studies",
+    "section": "Abstract",
+    "text": "Abstract\nHealth outcomes vary between schools and it is theorised that this may be partly attributable to variation in the school environment. Existing systematic reviews have not drawn authoritative conclusions because of methodological limitations in the review or studies available. We identified 42 multi-level studies, ten of which were judged of sufficient quality to narratively synthesize. There was consistent evidence that schools with higher attainment and attendance than would be expected from student intake had lower rates of substance use. Findings on the influence of smoking/alcohol policies were mixed. Three studies examined the health effects variously associated with school campus area and observability, year structure, school size and pupil-to-teacher ratio with mixed findings. The studies reviewed support the potential influence of the school environment on student health."
+  },
+  {
+    "objectID": "projects/2013 Bonnell - Systematic review schools and health.html",
+    "href": "projects/2013 Bonnell - Systematic review schools and health.html",
+    "title": "Systematic review of the effects of schools and school environment interventions on health: evidence mapping and synthesis",
+    "section": "",
+    "text": "Journal article"
+  },
+  {
+    "objectID": "projects/2013 Bonnell - Systematic review schools and health.html#links",
+    "href": "projects/2013 Bonnell - Systematic review schools and health.html#links",
+    "title": "Systematic review of the effects of schools and school environment interventions on health: evidence mapping and synthesis",
+    "section": "",
+    "text": "Journal article"
+  },
+  {
+    "objectID": "projects/2013 Bonnell - Systematic review schools and health.html#abstract",
+    "href": "projects/2013 Bonnell - Systematic review schools and health.html#abstract",
+    "title": "Systematic review of the effects of schools and school environment interventions on health: evidence mapping and synthesis",
+    "section": "Abstract",
+    "text": "Abstract\n\nBackground\nIn contrast to curriculum-based health education interventions in schools, the school environment approach promotes health by modifying schools’ physical/social environment. This systematic review reports on the health effects of the school environment and processes by which these might occur. It includes theories, intervention outcome and process evaluations, quantitative studies and qualitative studies.\n\n\nResearch questions\nResearch question (RQ)1: What theories are used to inform school environment interventions or explain school-level health influences? What testable hypotheses are suggested? RQ2: What are the effects on student health/inequalities of school environment interventions addressing organisation/management; teaching/pastoral care/discipline; and the physical environment? What are the costs? RQ3: How feasible/acceptable and context dependent are such interventions? RQ4: What are the effects on student health/inequalities of school-level measures of organisation/management; teaching/pastoral care/discipline; and the physical environment? RQ5: Through what processes might such influences occur?\n\n\nData sources\nA total of 16 databases were searched between 30 July 2010 and 23 September 2010 to identify relevant studies, including the British Educational Index, the Cumulative Index to Nursing and Allied Health Literature, the Health Management Information Consortium, EMBASE, MEDLINE and PsycINFO. In addition, references of included studies were checked and authors contacted.\n\n\nReview methods\nIn stage 1, we mapped references concerning how the school environment affects health and consulted stakeholders to identify stage 2 priorities. In stage 2, we undertook five reviews corresponding to our RQs.\n\n\nResults\nStage 1: A total of 82,775 references were retrieved and 1,144 were descriptively mapped. Stage 2: A total of 24 theories were identified (RQ1). The human functioning and school organisation, social capital and social development theories were judged most useful. Ten outcome evaluations were included (RQ2). Four US randomised controlled trials (RCTs) and one UK quasi-experimental study examined interventions building school community/relationships. Studies reported benefits for some, but not all outcomes (e.g. aggression, conflict resolution, emotional health). Two US RCTs assessed interventions empowering students to contribute to modifying food/physical activity environments, reporting benefits for physical activity but not for diet. Three UK quasi-experimental evaluations examined playground improvements, reporting mixed findings, with benefits being greater for younger children and longer break times. Six process evaluations (RQ3) reported positively. One study suggested that implementation was facilitated when this built on existing ethos and when senior staff were supportive. We reviewed 42 multilevel studies, confining narrative synthesis to 10 that appropriately adjusted for confounders. Four UK/US reports suggested that schools with higher value-added attainment/attendance had lower rates of substance use and fighting. Three reports from different countries examined school policies on smoking/alcohol, with mixed results. One US study found that schools with more unobservable/unsupervised places reported increased substance use. Another US study reported that school size, age structure and staffing ratio did not correlate with student drinking. Twenty-one qualitative reports from different countries (RQ5) suggested that disengagement, lack of safety and lack of participation in decisions may predispose students to engage in health risks.\n\n\nLimitations\nWe found no evidence regarding health inequalities or cost, and could not undertake meta-analysis.\n\n\nConclusions\nThere is non-definitive evidence for the feasibility and effectiveness of school environment interventions involving community/relationship building, empowering student participation in modifying schools’ food/physical activity environments, and playground improvements. Multilevel studies suggest that schools that add value educationally may promote student health. Qualitative studies suggest pathways underlying these effects. This evidence lends broad support to theories of social development, social capital and human functioning and school organisation. Further trials to examine the effects of school environment modifications on student health are recommended.\n\n\nFunding\nThe National Institute for Health Research Public Health Research programme."
+  },
+  {
+    "objectID": "projects/2013 Commons Select Committee - Evidence from Will Parry.html",
+    "href": "projects/2013 Commons Select Committee - Evidence from Will Parry.html",
+    "title": "Education Committee: Written Evidence Submitted by Will Parry, Department of Quantitative Social Science, Institute of Education",
+    "section": "",
+    "text": "PDF\nWeb"
+  },
+  {
+    "objectID": "projects/2013 Commons Select Committee - Evidence from Will Parry.html#links",
+    "href": "projects/2013 Commons Select Committee - Evidence from Will Parry.html#links",
+    "title": "Education Committee: Written Evidence Submitted by Will Parry, Department of Quantitative Social Science, Institute of Education",
+    "section": "",
+    "text": "PDF\nWeb"
+  },
+  {
+    "objectID": "projects/2013 Commons Select Committee - Evidence from Will Parry.html#abstract",
+    "href": "projects/2013 Commons Select Committee - Evidence from Will Parry.html#abstract",
+    "title": "Education Committee: Written Evidence Submitted by Will Parry, Department of Quantitative Social Science, Institute of Education",
+    "section": "Abstract",
+    "text": "Abstract\nThis short paper was written in response to a consultation by the government on the legacy of the 2012 London Olympic Games. It made the following main points:\n\nPolicy has implicitly made traditional elite sport the model for school provision\nA focus on competition is detrimental to the majority of children’s enjoyment and maintenance of sport at and beyond school\nThe population’s preferences could be used as a model for provision\n\nThe concluding paragraph is reproduced below:\nFor too long schools have been viewed as training grounds for the elite athletes of the future, essentially making use of a large captive population to filter out those who might be able to achieve gold medals for the country. This focus biases policy toward perverse approaches to getting children to be more active, focusing on competition and performance, as opposed to fun, variety and inclusivity. Being physically active is not the same as taking part in competitive sport. There are many ways to be active. The type of activity and whether it is participated in competitively have no bearing on whether one is reaching healthy levels of activity. Focusing on these things simply serves to reduce choice, opportunity and enjoyment."
+  },
+  {
+    "objectID": "projects/2013 IOE - Experiences of physical activity at age 10.html",
+    "href": "projects/2013 IOE - Experiences of physical activity at age 10.html",
+    "title": "Experiences of physical activity at age 10 in the 1970 British Cohort Study",
+    "section": "",
+    "text": "PDF"
+  },
+  {
+    "objectID": "projects/2013 IOE - Experiences of physical activity at age 10.html#links",
+    "href": "projects/2013 IOE - Experiences of physical activity at age 10.html#links",
+    "title": "Experiences of physical activity at age 10 in the 1970 British Cohort Study",
+    "section": "",
+    "text": "PDF"
+  },
+  {
+    "objectID": "projects/2013 IOE - Experiences of physical activity at age 10.html#abstract",
+    "href": "projects/2013 IOE - Experiences of physical activity at age 10.html#abstract",
+    "title": "Experiences of physical activity at age 10 in the 1970 British Cohort Study",
+    "section": "Abstract",
+    "text": "Abstract\nChildren are more likely to enjoy sport in school if they are active outside of school, according to a new study from the Institute of Education (IOE), University of London.\nThe IOE research, based on data from more than 14,000 10-year-olds included in the 1970 British Cohort Study (BCS70), found that children who were active outside of school were more likely to feel they did well at school sport and enjoy it. The effect was similar for boys and girls, although boys were generally more active than girls in their spare time.\nIn contrast, the amount of curricular time devoted to sport and physical education did not affect how much children said they enjoyed sport, or their perceived level of ability.\nThe findings suggested that parental and family influences were the most influential factors in children’s participation in sport outside of school, while family social class and income levels were not found to affect children’s activity levels.\nSince the London 2012 games, there has been an increasing policy focus on primary school sport, with the intention of making children more active and building a legacy of lifelong participation in sport.\nHowever, Will Parry, who conducted the research, warns that current government policy, which focuses on traditional sports, competition and performance, could have a negative effect on those children who are not supported by their parents to be active.\nHe said: ’Competitive sporting environments in primary school may impact on children’s enjoyment by emphasising performance and encouraging peer comparisons of ability. This could reduce the participation of those who are already less likely to be active outside of school."
+  },
+  {
+    "objectID": "projects/2015 IOE - PhD thesis.html",
+    "href": "projects/2015 IOE - PhD thesis.html",
+    "title": "Do Active Children Become Active Adults? Investigating Experiences of Sport and Exercise Using the 1970 British Cohort Study",
+    "section": "",
+    "text": "PDF\nWeb"
+  },
+  {
+    "objectID": "projects/2015 IOE - PhD thesis.html#links",
+    "href": "projects/2015 IOE - PhD thesis.html#links",
+    "title": "Do Active Children Become Active Adults? Investigating Experiences of Sport and Exercise Using the 1970 British Cohort Study",
+    "section": "",
+    "text": "PDF\nWeb"
+  },
+  {
+    "objectID": "projects/2015 IOE - PhD thesis.html#abstract",
+    "href": "projects/2015 IOE - PhD thesis.html#abstract",
+    "title": "Do Active Children Become Active Adults? Investigating Experiences of Sport and Exercise Using the 1970 British Cohort Study",
+    "section": "Abstract",
+    "text": "Abstract\nLeading a physically active lifestyle is known to provide a wide variety of health benefits, from reduced risk of diabetes and cardiovascular diseases, to improved mental well-being and healthy weight maintenance. Despite this, the majority of adults are not sufficiently active to benefit health.\nGovernment has consistently sought to increase levels of physical activity in the population (as well as develop elite sport talent) by focusing policy on the promotion of traditional, competitive sport in schools. The main rationale for this approach is that children who play lots of sport in school will continue participating as adults.\nThe academic literature has frequently criticised the focus on traditional, competitive sports, citing evidence that they have limited appeal to many children, exclude those with lower levels of skill and fitness, and may be counter-productive in terms of promoting lifelong activity. There is, however, scant prospective, quantitative evidence available to support either perspective.\nThe research presented in this thesis uses longitudinal data from the 1970 British Cohort Study, and robust statistical methods, to identify how childhood experiences of sport and exercise develop between primary and secondary school, and how they are associated with adult exercise behaviour. Hypotheses based on government policy assertions and academic theory are tested.\nThe findings provide little support for government policy: the cohort members’ participation in school sport was not independently associated with their exercise behaviour in adulthood. In contrast, there was consistent support for academic theory. Parental and family influences (posited by family socialisation theory) were consistently identified as key determinants of sport and exercise experiences, both in school and in adulthood. Likewise, an interest in physical fitness in childhood (i.e. intrinsic motivation, as described in self-determination theory) also affected adult exercise behaviour.\nThe findings are used to suggest alternative approaches by which government might encourage physical activity in the population."
+  },
+  {
+    "objectID": "projects/2015 Opcit - Gender equality in the European Parliament.html",
+    "href": "projects/2015 Opcit - Gender equality in the European Parliament.html",
+    "title": "Analysis of political parties’ and independent candidates’ policies for gender balance in the European Parliament after the elections of 2014",
+    "section": "",
+    "text": "PDF"
+  },
+  {
+    "objectID": "projects/2015 Opcit - Gender equality in the European Parliament.html#links",
+    "href": "projects/2015 Opcit - Gender equality in the European Parliament.html#links",
+    "title": "Analysis of political parties’ and independent candidates’ policies for gender balance in the European Parliament after the elections of 2014",
+    "section": "",
+    "text": "PDF"
+  },
+  {
+    "objectID": "projects/2015 Opcit - Gender equality in the European Parliament.html#abstract",
+    "href": "projects/2015 Opcit - Gender equality in the European Parliament.html#abstract",
+    "title": "Analysis of political parties’ and independent candidates’ policies for gender balance in the European Parliament after the elections of 2014",
+    "section": "Abstract",
+    "text": "Abstract\nUpon request by the FEMM Committee of the Directorate General for Internal Policies this study explores the results of the 2014 European Parliament elections in terms of gender balance of MEPs. The study uses case studies and statistical analyses of the election results to establish the main barriers to women being elected. The factors explored include the type of electoral system used, political parties’ candidate list selection processes and strategies used by women political candidates. The study presents recommendations for improving gender balance in the European Parliament.\n\nMethods\nThe study involved case studies and statistical analyses of candidate characteristics and election results. Nine in-depth case studies were conducted in Belgium, France, Hungary, Lithuania, Malta, Poland, Spain, Sweden, and the United Kingdom. This involved interviews with a range of respondents including women MEPs, political party officials who are involved with party selection processes, and representatives of non-governmental organisations (NGOs) with expertise in electoral processes and gender balance.\n\n\nKey findings\n\nThe underrepresentation of women in parliament is largely due to the underrepresentation of women in the candidate base. This problem can be addressed by actions of political parties in constructing their party lists.\nPolitical parties are the main enablers as well as barriers to women being elected as MEPs.\nWomen are frequently left out of party candidate lists and, even if they are included, are often given low list positions; this is a key barrier to gender balance in the European Parliament.\nPolitical parties often act to ‘champion’ certain candidates that are frequently male; this can disadvantage women candidates who have often garnered support over many years through grass roots organisations.\nBased on regression analyses of candidate data, quotas appear to improve women’s probability of being elected.\nBased on regression analyses of candidate data, women who are given first place in party lists are slightly more likely than men to be elected, particularly where quotas are also used to construct those party lists."
+  },
+  {
+    "objectID": "projects/2015 Strategic Society - Income security.html",
+    "href": "projects/2015 Strategic Society - Income security.html",
+    "title": "Income security and a good retirement",
+    "section": "",
+    "text": "Research PDF\nPolicy PDF"
+  },
+  {
+    "objectID": "projects/2015 Strategic Society - Income security.html#links",
+    "href": "projects/2015 Strategic Society - Income security.html#links",
+    "title": "Income security and a good retirement",
+    "section": "",
+    "text": "Research PDF\nPolicy PDF"
+  },
+  {
+    "objectID": "projects/2015 Strategic Society - Income security.html#key-points",
+    "href": "projects/2015 Strategic Society - Income security.html#key-points",
+    "title": "Income security and a good retirement",
+    "section": "Key points",
+    "text": "Key points\n\nFreedom and Choice has moved UK pension policy from a mandatory to a voluntary system for annuitizing Defined Contribution (DC) pension funds.\nOverseas evidence – such as from Australia – is that voluntary annuitisation systems result in very few people using their pension savings to obtain secure, guaranteed incomes during retirement.\nCoupled with existing evidence of a ‘savings bias’ among UK pensioners and low levels of financial capability, we can forecast that average private pension incomes will gradually decline following the Freedom and Choice changes.\n\n\nIncome Security and a Good Retirement\n\nQuantitative research looked at how level of secure income affects people’s experience of retirement among those with private pension incomes.\nRegardless of the level of someone’s financial wealth, we found that level of guaranteed income is significantly associated with various aspects of wellbeing and leisure.\nThese include going to the cinema, reading a daily newspaper, taking a holiday, participation in community groups and other civic activities.\nIncome is also associated with how people feel about their life, and whether they report “the conditions of my life are excellent” and “I have got the important things I want in life”.\nThe research suggests that an average DC pension saver would be likely to have a better retirement if they seek to maximise their level of guaranteed income.\nIf private pension incomes do decline following Freedom and Choice, this will likely lead to a reduction in levels of wellbeing among the older population.\n\n\n\nOur recommendations\n\nActively promote receipt of a guaranteed income in pension policy to improve the wellbeing of retirees.\nEducate savers about the role of a guaranteed income in a good retirement.\nInclude information about the importance of a guaranteed income for wellbeing in retirement in guidance and information from Pension Wise.\nEnsure receipt of a decent, guaranteed retirement income is the default option for DC pension savers.\nUndertake regular research into the effect of the April 2015 changes on older people’s wellbeing."
+  },
+  {
+    "objectID": "projects/2015 Strategic Society - Older Owners.html",
+    "href": "projects/2015 Strategic Society - Older Owners.html",
+    "title": "Older Owners - Research on the lives, aspirations and housing outcomes of older homeowners in the UK",
+    "section": "",
+    "text": "Research PDF\nPolicy PDF"
+  },
+  {
+    "objectID": "projects/2015 Strategic Society - Older Owners.html#links",
+    "href": "projects/2015 Strategic Society - Older Owners.html#links",
+    "title": "Older Owners - Research on the lives, aspirations and housing outcomes of older homeowners in the UK",
+    "section": "",
+    "text": "Research PDF\nPolicy PDF"
+  },
+  {
+    "objectID": "projects/2015 Strategic Society - Older Owners.html#abstract",
+    "href": "projects/2015 Strategic Society - Older Owners.html#abstract",
+    "title": "Older Owners - Research on the lives, aspirations and housing outcomes of older homeowners in the UK",
+    "section": "Abstract",
+    "text": "Abstract\nThis report describes the results of quantitative research into older homeowners in the UK, using data drawn from the 2011 Census and a nationally representative panel survey.\nIn 2011, there were around 6.5 million older living in owner-occupied homes in England, of whom 5.7 million owned their home outright, with the remainder owning with a mortgage or some form of shared ownership.\nPatterns of tenure in the 65+ population are broadly consistent, with 70-80% of older people living in owner-occupied homes in different geographic areas. However, within the older generation owner-occupation rates are lower among the oldest-old (85+) than those aged 65 to 74.\nIn 2011-12, the median value of older people’s homes in the UK was £200,000, with this average varying across different regions between £150,000 and £300,000.\nIn all areas of the UK, nearly three-quarters (72%) of older people living in owner-occupied homes have three or more bedrooms in their home. Around two-thirds of older people living in owner-occupied housing in the UK live with a partner, while just under one-third live alone.\nLevels of income among older homeowners vary significantly by area. In most regions, total gross monthly personal income at the 50th percentile (median) is around £1,000 per month (2011-12 prices). With the exception of Northern Ireland, over half of older homeowners have an employer pension. Across the East and South of England, over 20% report a private pension or annuity income. Around four-fifths of older homeowners in the UK report that they are ‘living comfortably’ or ‘doing alright’.\nThe incidence of longstanding illness or disability among older owners varies relatively widely across different UK regions, from 19% in the South East to 31% in the North East. The most common types of disability issues related to mobility, as well as to lifting, carrying or moving objects. Over 10% of older homeowners report providing round the clock care (100+ hours per week).\nAround one in ten older homeowners cite issues with noisy neighbours or pollution, although the percentage reporting problems with pollution is significantly higher in London. Most older homeowners (over four-fifths) are happy with the standard of local medical services, with no real regional variations observable. Less than 5% of older homeowners across the UK report being unable to access services when they need to.\nJust over half of older homeowners describe their neighbourhood as close-knit. Only 4% of older homeowners feel that people in their neighbourhood can’t be trusted, and just 3% report they do not feel they belong in their neighbourhood. Most older homeowners – typically over four-fifths – feel that they belong in their local neighbourhood. Around four-fifths report that they are similar to people in their neighbourhood.\nThe vast majority of older-owners (97%) report that they like their present neighbourhood, and nearly one in ten (86%) say they plan to remain in their neighbourhood for a number of years.\nNearly one in five (19%) of older homeowners report that they would prefer to move. However, only 4% of older homeowners – or 21% of those who prefer to move – expect to move in the next year. Those aged 75 and over are slightly more likely to prefer to stay where they are."
+  },
+  {
+    "objectID": "projects/2017 Opcit - Evaluation of Pause.html",
+    "href": "projects/2017 Opcit - Evaluation of Pause.html",
+    "title": "Evaluation of Pause",
+    "section": "",
+    "text": "PDF\nWeb"
+  },
+  {
+    "objectID": "projects/2017 Opcit - Evaluation of Pause.html#links",
+    "href": "projects/2017 Opcit - Evaluation of Pause.html#links",
+    "title": "Evaluation of Pause",
+    "section": "",
+    "text": "PDF\nWeb"
+  },
+  {
+    "objectID": "projects/2017 Opcit - Evaluation of Pause.html#abstract",
+    "href": "projects/2017 Opcit - Evaluation of Pause.html#abstract",
+    "title": "Evaluation of Pause",
+    "section": "Abstract",
+    "text": "Abstract\nThis evaluation report describes an evaluation of ‘Pause’, a voluntary programme for women who have experienced, or are at risk of, repeat removals of children from their care. The project aimed to reduce the number of children being removed into care and improve the health and wellbeing of the women in the programme.\n\nProject\nPause is a voluntary programme for women who have experienced, or are at risk of, repeat removals of children from their care. It aims to reduce the number of children being removed into care by working with women who have had children removed to improve their wellbeing, resilience, and stability. Pause offers women an 18-month, individually-tailored, intensive package of support, delivered by a dedicated Practitioner, which is intended to address a broad range of emotional, psychological, practical, and behavioural needs.\nAs a condition of beginning this voluntary programme, women agree to use an effective form of reversible contraceptive for the 18-month duration of the programme. This is intended to allow women the opportunity to reflect and focus on their own needs. In addition to providing support, Pause works in collaboration with partner agencies (such as health and domestic violence services), at operational and strategic levels, to improve the broader service response to Pause women.\nPause began in Hackney in 2013, and received funding from the Department for Education Innovation Programme in 2015 to expand the pilot within Hackney, and to Doncaster, Greenwich, Hull, Islington, Newham, and Southwark. While most pilot Practices worked only with women who had had at least 2 children removed from their care, one Practice worked only with women who had had one child removed, and another – the first Pause Practice – worked with multiple (‘one child removed’ and ‘2 or more children removed’) cohorts.\n\n\nEvaluation\nThis evaluation report assesses the impact of programme delivery, as well as the processes through which impact was achieved, for 125 women engaging with Pause at these 7 pilot Practices. It also offers an assessment of the fiscal costs and benefits of delivering the programme. The evaluation period ran from March 2015 to September 2016. It should be noted that, due to the timing of the evaluation period, at the first Pause Practice only the ‘1 child removed’ cohort took part in the evaluation. In total, the evaluation cohort included 95 women who had had 2 or more children removed at 5 Practices, and 30 women who had had one child removed at 2 Practices.\nThe central evaluation questions were:\n\nto what extent is the Pause model effective in reducing the numbers of children removed from women’s care?\nto what extent does engagement with the Pause programme have a positive impact on women’s wellbeing, resilience and stability?\nhow cost-effective is the Pause programme?\nhow do individual elements of the Pause programme relate to its impact?\nwhat factors enable, or hinder, the achievement of Pause’s aims?"
+  },
+  {
+    "objectID": "projects/2019 Health Foundation - High cost high need patients.html",
+    "href": "projects/2019 Health Foundation - High cost high need patients.html",
+    "title": "A descriptive analysis of health care use by highcost, high-need patients in England",
+    "section": "",
+    "text": "PDF\nWeb\nCode"
+  },
+  {
+    "objectID": "projects/2019 Health Foundation - High cost high need patients.html#links",
+    "href": "projects/2019 Health Foundation - High cost high need patients.html#links",
+    "title": "A descriptive analysis of health care use by highcost, high-need patients in England",
+    "section": "",
+    "text": "PDF\nWeb\nCode"
+  },
+  {
+    "objectID": "projects/2019 Health Foundation - High cost high need patients.html#abstract",
+    "href": "projects/2019 Health Foundation - High cost high need patients.html#abstract",
+    "title": "A descriptive analysis of health care use by highcost, high-need patients in England",
+    "section": "Abstract",
+    "text": "Abstract\nThis working paper was produced as part of a research project to better understand the characteristics and health care utilisation of high-cost, high-need populations across seven countries. See the results of the international study.\nThe paper adopts a rigorous approach to assigning costs to each patient based on their recorded activity and utilisation. Other researchers may find the methods presented in this paper useful when attempting to cost a full range of health care activity. This working paper has not been peer-reviewed, however we are publishing it as we believe it contributes to the literature in this area.\n\nKey points\n\nDespite the increasing financial pressure on the NHS over the past decades, there has been little research to understand the distribution and concentration of health care costs across the population.\nThis paper explores for the first time the distribution of both primary and secondary health care costs in England, including GP-prescribed drug cost. Identifying high-cost, high-need patients and examining the way in which they use health care services might help to design initiatives to reduce costs or to improve efficiency.\n\n\n\nSummary of findings\n\nAnalysis identifying the top 5% of users of primary and secondary care services by cost, using a large nationally representative sample in the year 2014/15, found that mean annual costs per patient were over 20 times higher in the top 5% of patients compared with all other patients (£9,789 vs £487).\nThe top 5% of patients accounted for around 50% of the total health care budget for primary care, secondary care and GP-prescribed drug therapy. This meant that more money was spent overall for the top 5% of patients (£147m) than all other patients (£139m).\nAlthough high-cost, high-need patients (top 5%) have higher costs across all categories analysed - primary care, outpatient care, emergency care and GP-prescribed drug therapies -, spending on this group was dominated by inpatient care (£6,892 inpatient costs per high-cost, high-need patient).\nOf the mean cost per patient for inpatient care, 9% and 8% was related to Ambulatory Care Sensitive admissions for the top 5% of patients and all other patients respectively. This suggests that initiatives to improve cost-effectiveness could focus on preventing avoidable inpatient hospital admissions, which is a key tenet of the NHS Long Term Plan.\nThe descriptive analysis indicates that the strongest drivers of being in the high-cost, high-need group are age, multimorbidity and deprivation; however, the paper does not explore the relative contribution of these factors. This suggests the need for a system-wide, long-term response to reducing socio-economic inequalities which may yield benefits to health system efficiency.\nThe design, delivery and management of high-cost, high-need patients have important implications for overall health system costs. Interventions that focus on better managing these patients in primary care and the community, reducing the need for unplanned and costly hospital admissions, could help reduce costs and improve the quality of care."
+  },
+  {
+    "objectID": "projects/2019 Health Foundation - Tower Hamlets Integrated Care.html",
+    "href": "projects/2019 Health Foundation - Tower Hamlets Integrated Care.html",
+    "title": "Effect of an integrated care pathway on use of primary and secondary healthcare by patients at high risk of emergency inpatient admission - a matched control cohort study in Tower Hamlets",
+    "section": "",
+    "text": "Journal article"
+  },
+  {
+    "objectID": "projects/2019 Health Foundation - Tower Hamlets Integrated Care.html#links",
+    "href": "projects/2019 Health Foundation - Tower Hamlets Integrated Care.html#links",
+    "title": "Effect of an integrated care pathway on use of primary and secondary healthcare by patients at high risk of emergency inpatient admission - a matched control cohort study in Tower Hamlets",
+    "section": "",
+    "text": "Journal article"
+  },
+  {
+    "objectID": "projects/2019 Health Foundation - Tower Hamlets Integrated Care.html#abstract",
+    "href": "projects/2019 Health Foundation - Tower Hamlets Integrated Care.html#abstract",
+    "title": "Effect of an integrated care pathway on use of primary and secondary healthcare by patients at high risk of emergency inpatient admission - a matched control cohort study in Tower Hamlets",
+    "section": "Abstract",
+    "text": "Abstract\n\nObjectives\nTo assess the effects of an integrated care pathway on the use of primary and secondary healthcare by patients at high risk of emergency inpatient admission.\n\n\nDesign\nObservational study of a real-life deployment of integrated care, using patient-level administrative data. Regression analysis was used to compare integrated care patients with matched controls.\n\n\nSetting\nA deprived, inner city London borough (Tower Hamlets).\n\n\nParticipants\n1,720 patients aged 50+ years registered with a general practitioner in Tower Hamlets and at high risk of emergency inpatient admission enrolled onto integrated care during 2014. These patients were matched to control patients, also selected from Tower Hamlets, with respect to demographics, diagnoses of health conditions, previous hospital use and risk score.\n\n\nInterventions\nEnrolled patients were eligible for a range of interventions, such as case management, support with self-care and enhanced care coordination. Control patients received usual care.\n\n\nPrimary and secondary endpoints\nNumber of emergency inpatient admissions in the year after enrolment onto integrated care. Secondary endpoints included numbers of elective inpatient admissions, inpatient bed days, accident and emergency attendances, outpatient attendances and general practitioner contacts in the year after enrolment.\n\n\nResults\nThere was no evidence that the integrated care pathway reduced patients’ healthcare utilisation in the first year post-enrolment. Matched controls and integrated care patients were similar at baseline. Following enrolment, integrated care patients were more likely than matched controls to experience elective inpatient admissions (adjusted incidence rate ratio (IRR)=1.27, 95%CI 1.08 to 1.49, p=0.004). They were also more likely to experience general practitioner contacts (adjusted IRR=1.11, 95% CI 1.06 to 1.16, p&lt;0.001), but other endpoints were not significantly different between the groups.\n\n\nConclusions\nThe integrated care pathway was not associated with a reduction in healthcare utilisation in the first year, but appeared to have increased elective inpatient admissions and general practitioner workload."
+  },
+  {
+    "objectID": "projects/2020 Apteligen - Costs of childcare.html",
+    "href": "projects/2020 Apteligen - Costs of childcare.html",
+    "title": "Review of the Cost of Providing Quality Childcare Services in Ireland",
+    "section": "",
+    "text": "Summary PDF\nReport PDF"
+  },
+  {
+    "objectID": "projects/2020 Apteligen - Costs of childcare.html#links",
+    "href": "projects/2020 Apteligen - Costs of childcare.html#links",
+    "title": "Review of the Cost of Providing Quality Childcare Services in Ireland",
+    "section": "",
+    "text": "Summary PDF\nReport PDF"
+  },
+  {
+    "objectID": "projects/2020 Apteligen - Costs of childcare.html#summary",
+    "href": "projects/2020 Apteligen - Costs of childcare.html#summary",
+    "title": "Review of the Cost of Providing Quality Childcare Services in Ireland",
+    "section": "Summary",
+    "text": "Summary\nCrowe (formerly Crowe Horwath), in association with Apteligen, were commissioned by the Department of Children and Youth Affairs (DCYA) to undertake an independent review on the cost of providing quality childcare in Ireland. The project was part of a wider commitment by the DCYA to establish an evidence base for the development and support of quality Early Learning and Care (ELC) and School Age Childcare (SAC) provision in Ireland. This contract was awarded in Autumn 2017.\nThe brief included:\n\nanalysing the current costs of providing ELC and SAC and the factors that impact on these costs;\nthe development and delivery of a model of the unit costs of providing ELC and SAC that allows analysis of policy changes and variation in cost-drivers, including the potential impact of professionalisation; and\nproviding an objective, high-level market analysis of the sector in Ireland, including analysis of fee levels charged to parents.\n\nAn Oversight Group for this work was established by DCYA, comprising representatives from the DCYA, the Department of Education and Skills (DES), and Pobal. The Oversight Group met regularly to provide insight, review outputs, discuss and sign off on key project decisions, including the design of the survey tool. An overall approach and methodology was decided upon in partnership with the Oversight Group and Crowe/Apteligen and a number of key activities have been undertaken to date.\nThese include:\n\nreview of literature, context, existing data, and reports, including those submitted via a call for evidence and literature searches (comprising peer-reviewed and “grey” literature);\nan initial scoping exercise of early-stage informative engagement with 19 providers of different sizes, types, and locations comprising an overview of the providers’ business models and financial records to understand the cost drivers and key issues impacting on the operation of the providers’ businesses;\nengagement with key stakeholders from the sector, including the Early Years Forum, provider representative organisations, the City/County Childcare Committees, Statutory bodies, professional training bodies, and academics;\nthe administration of a survey to all centre-based providers nationally, to provide the data on which the cost modelling tool would be based;\nthe development of a cost modelling tool (and guidance document) to present the baseline cost data and enable the impact of a range of scenarios on unit cost, to be tested; and\nthe production of a final report.\n\nOutputs from the independent review of costs were subject to an independent peer review."
+  },
+  {
+    "objectID": "projects/2020 Health Foundation - Mental health and multimorbidity.html",
+    "href": "projects/2020 Health Foundation - Mental health and multimorbidity.html",
+    "title": "Common mental health disorders and multimorbidity",
+    "section": "",
+    "text": "PDF\nWeb\nCode"
+  },
+  {
+    "objectID": "projects/2020 Health Foundation - Mental health and multimorbidity.html#links",
+    "href": "projects/2020 Health Foundation - Mental health and multimorbidity.html#links",
+    "title": "Common mental health disorders and multimorbidity",
+    "section": "",
+    "text": "PDF\nWeb\nCode"
+  },
+  {
+    "objectID": "projects/2020 Health Foundation - Mental health and multimorbidity.html#summary",
+    "href": "projects/2020 Health Foundation - Mental health and multimorbidity.html#summary",
+    "title": "Common mental health disorders and multimorbidity",
+    "section": "Summary",
+    "text": "Summary\nThis working paper describes the health care use of people with depression and/or anxiety across primary and secondary care prior to the coronavirus (COVID-19) pandemic. We highlight the broader health needs of these patients, and longstanding variation in use of health care by level of socioeconomic deprivation.\nIn England, almost three-quarters of people with depression and/or anxiety have at least one other physical or mental health-related long-term condition while almost a third have three or more other long-term conditions. Chronic pain is particularly prevalent among people with depression and/or anxiety (30.7% – almost double the rate seen in the general population), as are hypertension and irritable bowel syndrome.\nPeople with depression and/or anxiety are more likely to have additional long-term conditions if they live in areas of higher socioeconomic deprivation. Among people aged 45–64 years, 72% of people with depression and/or anxiety in the least deprived areas of England had at least one additional long-term condition, compared with 86% in the most deprived areas.\nPeople with depression and/or anxiety have more primary care consultations if they have additional long-term conditions, as would be expected. This group are also prescribed more medications, including more mental health-related medications. When the data are analysed by deprivation, the story becomes more complex.\nPeople with depression and/or anxiety living in more deprived areas are prescribed more medications, which might suggest they have a higher level of clinical need. However, they do not receive more primary care consultations than people with depression and/or anxiety in less deprived areas, despite their potentially higher level of need.\nUnplanned secondary health care use (A&E visits and emergency hospital admissions) is higher for people with depression and/or anxiety living in more deprived areas, yet planned secondary health care use (elective hospital admissions and outpatient appointments) is not higher. This suggests that, despite their complex needs, people in the most deprived areas are not receiving as good care as those in the least deprived areas. It is unclear whether this is due to problems with the availability or suitability of services in more deprived areas, or differences in treatment-seeking behaviours.\nPeople with depression and/or anxiety use secondary health care for mental health needs relatively rarely. Nevertheless, we found evidence that they are more likely to use unplanned secondary health care relating to mental health if they live in more deprived areas. We do not see this pattern with deprivation for planned secondary mental health care use.\nFurther research is needed into the inequalities highlighted by this analysis. These are important at any time, yet the COVID-19 pandemic has made the issues more acute. The latest estimates are that up to 10 million people in England have additional mental health needs as a direct consequence of the pandemic. Resources must be targeted appropriately, particularly to primary care services in deprived areas to help meet the needs of people with mental health conditions.”"
+  },
+  {
+    "objectID": "projects/2021 Health Foundation - COVID oximetry SAP.html",
+    "href": "projects/2021 Health Foundation - COVID oximetry SAP.html",
+    "title": "Statistical analysis protocol for an evaluation of COVID Oximetry @home using a Regression Discontinuity Design",
+    "section": "",
+    "text": "PDF\nWeb"
+  },
+  {
+    "objectID": "projects/2021 Health Foundation - COVID oximetry SAP.html#links",
+    "href": "projects/2021 Health Foundation - COVID oximetry SAP.html#links",
+    "title": "Statistical analysis protocol for an evaluation of COVID Oximetry @home using a Regression Discontinuity Design",
+    "section": "",
+    "text": "PDF\nWeb"
+  },
+  {
+    "objectID": "projects/2021 Health Foundation - COVID oximetry SAP.html#abstract",
+    "href": "projects/2021 Health Foundation - COVID oximetry SAP.html#abstract",
+    "title": "Statistical analysis protocol for an evaluation of COVID Oximetry @home using a Regression Discontinuity Design",
+    "section": "Abstract",
+    "text": "Abstract\nCoronavirus disease 2019 (COVID-19) has led to many individuals in England suffering from severe health degradation, complications, and deaths. One issue lies with people presenting to hospital with low oxygen saturation levels, often without accompanying breathlessness (known as silent hypoxia). Delays in escalating and admitting these individuals to hospital can lead to invasive treatment, prolonged hospital stay, and an increased risk of death.\nRemote home monitoring models, which aim to remotely monitor COVID-19 patients at risk, have been implemented in several countries, including England, in response to COVID-19. The aim of these models is twofold:\n\navoid unnecessary hospital admissions (‘appropriate care in the appropriate place’), and\nescalate cases of health deterioration earlier to avoid invasive ventilation and ICU admission.\n\nThe National Health Service (NHS) pilot of remote home monitoring models, which included the use of pulse oximeters that measure a person’s blood oxygen saturation levels, was launched in eight settings in England during the first wave of the pandemic. The pilots encompassed various models, with differing settings (eg primary care providing pre-hospital support or secondary care providing post-discharge support) and different mechanisms for triage and monitoring."
+  },
+  {
+    "objectID": "projects/2021 Health Foundation - COVID oximetry feasibility.html",
+    "href": "projects/2021 Health Foundation - COVID oximetry feasibility.html",
+    "title": "COVID Oximetry @home (CO@h) - Feasibility analysis for evaluation of CO@h using regression discontinuity",
+    "section": "",
+    "text": "PDF"
+  },
+  {
+    "objectID": "projects/2021 Health Foundation - COVID oximetry feasibility.html#links",
+    "href": "projects/2021 Health Foundation - COVID oximetry feasibility.html#links",
+    "title": "COVID Oximetry @home (CO@h) - Feasibility analysis for evaluation of CO@h using regression discontinuity",
+    "section": "",
+    "text": "PDF"
+  },
+  {
+    "objectID": "projects/2021 Health Foundation - COVID oximetry feasibility.html#summary",
+    "href": "projects/2021 Health Foundation - COVID oximetry feasibility.html#summary",
+    "title": "COVID Oximetry @home (CO@h) - Feasibility analysis for evaluation of CO@h using regression discontinuity",
+    "section": "Summary",
+    "text": "Summary\nThis report documents the findings of the Improvement Analytics Unit (IAU)’s feasibility analysis to determine whether a regression discontinuity design would be an appropriate method for evaluating the causal impact of the CO@h programme.\nWe found that the number and proportion of eligible patients that were onboarded onto the service was low, and that there was very little discontinuity (difference) in onboarding rates above and below the age threshold. For example, approximately 3.5% of eligible patients aged 65–69 were onboarded from January 2021, whereas approximately 2% of patients aged 60–64 were.\nThe low rates of onboarding and the lack of discontinuity at the age cut-off would result in a lack of statistical power, virtually guaranteeing a null result, even if the intervention was successful in reducing emergency hospital outcomes. Furthermore, the lack of a discontinuity of the magnitude generally required for a high quality RDD would lead one to question the validity of the assumptions of this method relating to non-compliance.\nTherefore, we concluded that an RDD was not suitable for the evaluation of the CO@h programme in the current setting.\nA number of approaches to evaluate the CO@h programme are being pursued by evaluation partners, including a population-level analysis using generalised synthetic control methods by colleagues within the IAU. Each approach has different assumptions, strengths and weaknesses, but will together aim to provide reliable conclusions about the effect of CO@h on outcomes."
+  },
+  {
+    "objectID": "projects/2023 Health Foundation - Consultation mode and continuity of care.html",
+    "href": "projects/2023 Health Foundation - Consultation mode and continuity of care.html",
+    "title": "Association between consultation mode and continuity of care in general practice before and during the COVID-19 pandemic",
+    "section": "",
+    "text": "TBC - In review"
+  },
+  {
+    "objectID": "projects/2023 Health Foundation - Consultation mode and continuity of care.html#links",
+    "href": "projects/2023 Health Foundation - Consultation mode and continuity of care.html#links",
+    "title": "Association between consultation mode and continuity of care in general practice before and during the COVID-19 pandemic",
+    "section": "",
+    "text": "TBC - In review"
+  },
+  {
+    "objectID": "projects/2023 Health Foundation - Consultation mode and continuity of care.html#abstract",
+    "href": "projects/2023 Health Foundation - Consultation mode and continuity of care.html#abstract",
+    "title": "Association between consultation mode and continuity of care in general practice before and during the COVID-19 pandemic",
+    "section": "Abstract",
+    "text": "Abstract\n\nObjectives\nTo assess whether consultation mode (either face-to-face or remote) was associated with continuity of care with a general practitioner (GP) before and during the COVID-19 pandemic, controlling for a range of potential confounders at the patient and practice-level.\n\n\nDesign\nObservational study using data from the Clinical Practice Research Datalink (CPRD) AURUM data resource, both before and during the pandemic. A cross-sectional and longitudinal analysis of data in the years ending February 2020 and February 2021.\n\n\nSetting\n389 primary care practices participating in CPRD AURUM in England.\n\n\nParticipants\n153,475 and 125,298 patients aged 2 years and over who experienced at least 3 consultations with a GP in the years ending February 2020 and February 2021, respectively.\n\n\nPrimary and secondary outcome measures\nThe primary outcome measure was the Usual Provider of Care (UPC) index. The secondary outcome measures were the Bice-Boxerman index and the count of consultations with the most frequently seen GP.\nThe analysis focuses on these outcomes calculated at the index months February 2020 and February 2021. Each outcome is calculated using consultations with a GP during the previous 12 months.\n\n\nResults\nWe quantified consultation mode as the proportion of a patient’s consultations with a GP over the previous 12 months that were delivered remotely. Before the pandemic, this proportion averaged 23%; during the pandemic it increased to 76%. We found little evidence consultation mode was associated with continuity at the patient level, when controlling for a range of covariates. In contrast, covariates measuring GP supply and patient demand at the practice level were consistently associated with continuity.\n\n\nConclusions\nThe dramatic shift to a primarily remote model of care during the pandemic was not associated with a change in relational continuity. Improvements to GP-patient coordination alongside increases in GP availability and capacity offer a more plausible route to increasing continuity of care.\n\n\nStrengths and limitations of this study\nThe study used routinely collected patient-level general practice data from a large, broadly representative pool of English primary care practices and patients participating in the CPRD AURUM data resource.\nWe developed a conceptual model based on the available research literature to control for potential confounders of the association between consultation mode and continuity.\nWe made use of data from before and during the COVID-19 pandemic to examine the effect of a sudden change in consultation mode on continuity of care.\nWe compared findings using three different measures of relational continuity of care and two different modelling approaches.\nIdentifying consultations and consultation mode in CPRD AURUM was not straightforward and required the development of a novel consultation coding system. Similarly, we were not able to measure all elements in the conceptual model.\nThe achieved sample sizes were smaller than specified in our protocol due to the number of consultations needed per year to measure our outcomes.\nThe model specifications generally avoided interactions and higher order terms to facilitate interpretation."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Will Parry",
+    "section": "",
+    "text": "LinkedIn\n  \n  \n    \n     Mastodon\n  \n\n  \n  \nI am a British social scientist, statistician and data scientist with over 18 years’ experience in research and consultancy.\nI work as a freelance consultant for a variety of clients including government departments, the NHS, academia, research consultancies, think tanks, charities, the voluntary sector, and others in the UK and Europe.\nI am keen on all things scientific and regard myself a ‘skeptic with a k’. I have previously taught statistical and survey methods, software skills for data analysis, critical thinking skills and the scientific method.\n\n\n\n\n\n\nEducation\nInstitute of Education, UCL | London, UK\nPhD Quantitative Social Science | 2015\nLondon School of Economics | London, UK\nMSc Social Research Methods | 2008\nUniversity of Bath | Bath, UK\nBEng (hons.) Materials Science & Engineering | 2002\n\n\n\n\n\nInterests\n\nRstats programming\nOpen access science\nQuasi-experiments\nPublic policy evaluation\nSocial psychology\nMusic & revolution\n\n\n\n\n\n\n\n\n Back to top"
   }
 ]
