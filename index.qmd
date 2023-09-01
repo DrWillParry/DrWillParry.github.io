@@ -18,11 +18,6 @@ about:
         aria-label: Mastodon
         href: https://mastodon.online/@DrWillParry
         target: _blank
-      - icon: twitter
-        text: Twitter
-        aria-label: Twitter
-        href: https://twitter.com/DrWillParry
-        target: _blank
       - icon: github
         text: GitHub
         aria-label: GitHub
