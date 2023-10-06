@@ -31,6 +31,10 @@ website:
         aria-label: Mastodon
         href: https://mastodon.online/@DrWillParry
         target: _blank
+  page-footer: 
+    center: |
+      &copy; Dr Will Parry Ltd. - Registered in England and Wales 09051942 - VAT number 439 1767 64
+    
 format:
   html:
     theme: sandstone
