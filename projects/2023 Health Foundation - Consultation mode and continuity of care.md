@@ -1,8 +1,7 @@
 ---
-date: "01-01-2024"
+date: "2023-11-01"
 client: "The Health Foundation"
-title: "Association between consultation mode and continuity of care in general practice before and during the COVID-19 pandemic"
-subtitle: "Cross-sectional and longitudinal study of routinely collected patient and practice-level data"
+title: "Continuity of care and consultation mode in general practice: A cross-sectional and longitudinal study using patient and practice-level data from before and during the COVID-19 pandemic in England"
 author:
 - Parry W
 - Fraser C
@@ -16,14 +15,14 @@ categories:
 - Evaluation
 draft: false
 published:
-  In review
+  In press
   <!-- a href="publications/Health Foundation/.pdf" target="_blank">PDF</a></br>
   <a href="" target="_blank">Web</a -->
 ---
 
 ## Links
 
-* TBC - In review
+* TBC - In press
 <!--* <a href="publications/Health Foundation/.pdf" target="_blank">PDF</a></br>
 * <a href="" target="_blank">Web</a> -->
 
@@ -31,49 +30,38 @@ published:
 
 ### Objectives
 
-To assess whether consultation mode (either face-to-face or remote) was associated with continuity of care with a general practitioner (GP) before and during the COVID-19 pandemic, controlling for a range of potential confounders at the patient and practice-level.
+Investigate trends in continuity of care with a general practitioner before and during the COVID-19 pandemic. Identify whether continuity of care is associated with consultation mode, controlling for other patient and practice characteristics.
 
 ### Design
 
-Observational study using data from the Clinical Practice Research Datalink (CPRD) AURUM data resource, both before and during the pandemic. A cross-sectional and longitudinal analysis of data in the years ending February 2020 and February 2021.
+Retrospective, cross-sectional and longitudinal observational study, using administrative data.
 
 ### Setting
 
-389 primary care practices participating in CPRD AURUM in England.
+389 general practices participating in Clinical Practice Research Datalink (CPRD) Aurum in England.
 
 ### Participants
 
-153,475 and 125,298 patients aged 2 years and over who experienced at least 3 consultations with a GP in the years ending February 2020 and February 2021, respectively. 
+In the trend analysis, 100,000+ patients were included at each index month between April 2018 and April 2021. Modelling of the association between continuity of care and consultation mode focused on 153475 and 125298 patients in the index months of February 2020 (before the pandemic) and February 2021 (during the pandemic).
 
-### Primary and secondary outcome measures
+### Primary and secondary outcomes measures
 
-The primary outcome measure was the Usual Provider of Care (UPC) index. The secondary outcome measures were the Bice-Boxerman index and the count of consultations with the most frequently seen GP.
-
-The analysis focuses on these outcomes calculated at the index months February 2020 and February 2021.
-Each outcome is calculated using consultations with a GP during the previous 12 months.
+The primary outcome measure was the Usual Provider of Care index. Secondary outcomes included the BiceBoxerman index and count of consultations with the most frequently seen GP.
 
 ### Results
 
-We quantified consultation mode as the proportion of a patient’s consultations with a GP over the previous 12 months that were delivered remotely. Before the pandemic, this proportion averaged 23%; during the pandemic it increased to 76%. We found little evidence consultation mode was associated with continuity at the patient level, when controlling for a range of covariates. In contrast, covariates measuring GP supply and patient demand at the practice level were consistently associated with continuity.
+Continuity of care was gradually declining before the pandemic but stabilised during it. There were consistent demographic, socioeconomic and regional differences in continuity of care. An average of 23% of consultations were delivered remotely in the year to February 2020 compared to 76% in February 2021. We found little evidence consultation mode was associated with continuity at the patient level, controlling for a range of covariates. In contrast, patient characteristics and practice-level supply and demand were associated with continuity.
 
 ### Conclusions
 
-The dramatic shift to a primarily remote model of care during the pandemic was not associated with a change in relational continuity. Improvements to GP-patient coordination alongside increases in GP availability and capacity offer a more plausible route to increasing continuity of care. 
+We set out to examine the association of consultation mode with continuity of care but found that GP supply and patient demand were much more important. To improve continuity for patients, primary care capacity needs to increase. This requires sufficient, long-term investment in clinicians, staff, facilities, and IT infrastructure. General practice also needs to transform ways of working to ensure continuity for those that need it, even in a capacity-constrained environment.
+
 
 ### Strengths and limitations of this study
 
-The study used routinely collected patient-level general practice data from a large, broadly representative pool of English primary care practices and patients participating in the CPRD AURUM data resource.
-
-We developed a conceptual model based on the available research literature to control for potential confounders of the association between consultation mode and continuity.
-
-We made use of data from before and during the COVID-19 pandemic to examine the effect of a sudden change in consultation mode on continuity of care.
-
-We compared findings using three different measures of relational continuity of care and two different modelling approaches.
-
-Identifying consultations and consultation mode in CPRD AURUM was not straightforward and required the development of a novel consultation coding system. Similarly, we were not able to measure all elements in the conceptual model.
-
-The achieved sample sizes were smaller than specified in our protocol due to the number of consultations needed per year to measure our outcomes.
-
-The model specifications generally avoided interactions and higher order terms to facilitate interpretation.
-
+* We used a large scale routinely collected patient-level data set from a nationally representative pool of English general practices.
+* We developed a conceptual model identifying a variety of potential patient and practice-level factors likely to influence continuity, but unobserved confounding may still affect our results.
+* We estimated the association between relational continuity of care and patient and practice-level factors before and during the COVID-19 pandemic, comparing findings from three different measures of continuity and two different modelling approaches.
+* We focused on relational continuity of care with a GP only for patients with at least 3 consultations in a year and could not account for changes in management or informational continuity.
+* Data quality may be an issue, as consultation mode is not consistently recorded in the data and our method for deriving consultation mode has not yet been externally validated.
 
