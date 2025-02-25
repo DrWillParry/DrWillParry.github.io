@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Parry W">
+<meta name="dcterms.date" content="2023-03-27">
 
-<title>Will Parry</title>
+<title>Will Parry - Moving the Pupilinform online data analysis tool to Power BI</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,21 +25,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./image/icon.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../image/icon.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -60,20 +63,20 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" media="all" href="https://fonts.googleapis.com/css2?family=Montserrat&amp;family=Questria&amp;family=Cutive+Mono&amp;display=swap" type="text/css">
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./image/icon.png" alt="Logo icon" class="navbar-logo">
+    <a href="../index.html" class="navbar-brand navbar-brand-logo">
+    <img src="../image/icon.png" alt="Logo icon" class="navbar-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Will Parry</span>
     </a>
   </div>
@@ -84,11 +87,11 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" rel="" target="" aria-current="page">
+    <a class="nav-link" href="../index.html" rel="" target="">
  <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html" rel="" target="">
+    <a class="nav-link" href="../projects.html" rel="" target="">
  <span class="menu-text">Projects</span></a>
   </li>  
 </ul>
@@ -109,69 +112,94 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
+  <li><a href="#summary-and-conclusions" id="toc-summary-and-conclusions" class="nav-link" data-scroll-target="#summary-and-conclusions">Summary and conclusions</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-
-
-<div class="quarto-about-trestles">
-  <div class="about-entity">
-    <img src="image/avatar.png" class="about-image
-  rectangle " style="width: 15em;">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Will Parry</h1>
-<p class="subtitle lead">PhD, MSc, BEng (hons.)</p>
-</div>
+<h1 class="title">Moving the Pupilinform online data analysis tool to Power BI</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Exploratory analysis</div>
+    <div class="quarto-category">Education policy</div>
+    <div class="quarto-category">Research report</div>
+    <div class="quarto-category">Monitoring systems</div>
+  </div>
+  </div>
+
+
+
 <div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Parry W </p>
+          </div>
   </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">March 27, 2023</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
 </header>
-    <div class="about-links">
-  <a href="https://www.linkedin.com/in/DrWillParry" class="about-link" rel="" target="_blank">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><div id="hero-heading">
-<p>I am a British social scientist, statistician and data scientist with over 18 years’ experience in research and consultancy.</p>
-<p>I work as a freelance consultant for a variety of clients including government departments, the NHS, academia, research consultancies, think tanks, charities, the voluntary sector, and others in the UK and Europe.</p>
-<p>I am keen on all things scientific and regard myself a <a href="https://en.wikipedia.org/wiki/Skeptical_movement#Scientific_skepticism" target="_blank">‘skeptic with a k’</a>. I have previously taught statistical and survey methods, software skills for data analysis, critical thinking skills and the scientific method.</p>
-</div></div>
-</div>
 
-<div class="columns">
-<div class="column" style="width:60%;">
-<section id="education" class="level1">
-<h1>Education</h1>
-<p>Institute of Education, UCL | London, UK<br>
-PhD Quantitative Social Science | 2015</p>
-<p>London School of Economics | London, UK<br>
-MSc Social Research Methods | 2008</p>
-<p>University of Bath | Bath, UK<br>
-BEng (hons.) Materials Science &amp; Engineering | 2002</p>
+<!---
+## Links
+
+* <a href="https://bmjopen.bmj.com/content/13/11/e075152" target="_blank">Journal article</a>
+--->
+<section id="introduction" class="level2">
+<h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
+<p>This report documents the findings of the proof-of-concept (POC) work for Gloucestershire County Council (GCC) on whether a replacement to Pupilinform – the pupil wellbeing survey analysis tool – can be built using Power BI. It aims to provide an initial understanding of whether it is possible to replicate Pupilinform on Power BI, and if so, identify the elements that are straightforward, those that are difficult, and those that may not be possible. It is not exhaustive, as there may be several ways in which to accomplish some elements, and it does not aim to fully duplicate all of the functionality of Pupilinform exactly. However, it should provide a sound basis on which to make decisions regarding the use of Power BI to replace the current version of Pupilinform, and provide some indication of the effort required to complete a first beta version.</p>
 </section>
-</div><div class="column" style="width:10%;">
-<!-- empty column to create gap -->
-</div><div class="column" style="width:30%;">
-<section id="interests" class="level1">
-<h1>Interests</h1>
-<ul>
-<li>Rstats programming</li>
-<li>BI &amp; data viz</li>
-<li>Quasi-experiments</li>
-<li>Policy evaluation</li>
-<li>Statistical modelling</li>
-<li>Shiny app development</li>
-<li>RAP pipelines</li>
-</ul>
+<section id="summary-and-conclusions" class="level2">
+<h2 class="anchored" data-anchor-id="summary-and-conclusions">Summary and conclusions</h2>
+<p>The POC work was challenging and resulted in both good solutions and limitations in transferring Pupilinform to Power BI. Much of the core functionality of Power BI is possible to replicate using Power BI, but there are some key gaps and issues that need to be considered.</p>
+<p>Core functionality that could be incorporated included:</p>
+<ol type="1">
+<li>controlling filtering and cross-tabulation of data using table joins and slicers,</li>
+<li>producing the correct data summarisations and passing them to visuals so that plots could be constructed,</li>
+<li>controlling the data that users can pass to the visuals, using row-level security, slicer values, and role-specific versions of the reports, and</li>
+<li>creating the same plots as available in Pupilinform using R script visuals.</li>
+</ol>
+<p>Core functionality that could not be incorporated included:</p>
+<ol type="1">
+<li>the suppression of small counts (beyond simply hiding values &lt;5) to prevent the possibility of back-calculation from the remaining values and totals in table visuals,</li>
+<li>a straightforward method of creating downloadable reports that are correctly formatted, and</li>
+<li>incorporation of the mean WEMWBS score in the Summary plots.</li>
+</ol>
+<p>For the suppression of small counts, it may be worth seeing whether a DAX expert may be able to incorporate improved suppression rules into the table visuals used for data download.</p>
+<p>There were also some limitations it is possible to work around:</p>
+<ol type="1">
+<li>enforced phase filtering for specific (Ofsted) Summary topics,</li>
+<li>squashing and stretching of plots dependent on the amount of data being displayed, and</li>
+<li>correct sorting of questions and values in visuals and tables.</li>
+</ol>
+<p>There was also one other important consideration that relates to:</p>
+<ol type="1">
+<li>the way in which users access Power BI from external organisations and any costs associated with this. Power BI subscriptions may need to be paid unless GCC can add external users to its organisational Power BI user groups.</li>
+</ol>
+<p>Ultimately, the POC work has been very successful in prototyping solutions for moving Pupilinform onto the Power BI platform. GCC will need to carefully consider the limitations that have been identified. It may be necessary for GCC to undertake additional work on these before a final decision can be made and work can begin on building a Power BI-based solution for release to users.</p>
+
+
 </section>
-</div>
-</div>
-
-
-
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -194,6 +222,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

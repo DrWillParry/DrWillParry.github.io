@@ -13,11 +13,6 @@ about:
         aria-label: LinkedIn
         href: https://www.linkedin.com/in/DrWillParry
         target: _blank
-      - icon: mastodon
-        text: Mastodon
-        aria-label: Mastodon
-        href: https://mastodon.online/@DrWillParry
-        target: _blank
 ---
 
 :::{#hero-heading}
@@ -56,12 +51,12 @@ BEng (hons.) Materials Science & Engineering \| 2002
 # Interests
 
 -   Rstats programming
--   Open access science
+-   BI & data viz
 -   Quasi-experiments
--   Public policy evaluation
--   Social psychology
--   Music & revolution
-
+-   Policy evaluation
+-   Statistical modelling
+-   Shiny app development
+-   RAP pipelines
 :::
 
 ::::
