@@ -1,6 +1,6 @@
 ---
 date: "2020-03-01"
-client: "Irish Government, Department of Children and Youth Affairs"
+date-format: MMM YYYY
 title: "Review of the Cost of Providing Quality Childcare Services in Ireland"
 author:
 - Crowe
@@ -12,6 +12,9 @@ categories:
 published:
   <a href="publications/Apteligen/2020 Crowe - Costs of Childcare - Summary.pdf" target="_blank">Summary PDF</a></br>
   <a href="publications/Apteligen/2020 Crowe - Costs of Childcare - Final.pdf" target="_blank">Report PDF</a>
+published-title: Date
+abstract: "Irish Government, Department of Children and Youth Affairs"
+abstract-title: Client
 ---
 
 

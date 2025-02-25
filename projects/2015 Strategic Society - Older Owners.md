@@ -1,6 +1,6 @@
 ---
 date: "2015-10-01"
-client: "The Strategic Society Centre"
+date-format: MMM YYYY
 title: "Older Owners - Research on the lives, aspirations and housing outcomes of older homeowners in the UK"
 author:
 - Lloyd J
@@ -13,6 +13,9 @@ categories:
 published:
   <a href="publications/Strategic Society Centre/Older-Owners.pdf" target="_blank">Research PDF</a></br>
   <a href="publications/Strategic Society Centre/Open-Plan-Building-a-strategic-policy-toward-older-owners.pdf" target="_blank">Policy PDF</a>
+published-title: Date
+abstract: "The Strategic Society Centre"
+abstract-title: Client
 ---
 
 ## Links

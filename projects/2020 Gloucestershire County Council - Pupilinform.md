@@ -1,6 +1,6 @@
 ---
 date: "2020-03-27"
-client: "Gloucestershire County Council"
+date-format: MMM YYYY
 title: "Pupilinform online data analysis tool"
 author:
 - Parry W
@@ -10,6 +10,9 @@ categories:
 - Monitoring systems
 draft: false
 published: N/A
+published-title: Date
+abstract: "Gloucestershire County Council"
+abstract-title: Client
 ---
 
 

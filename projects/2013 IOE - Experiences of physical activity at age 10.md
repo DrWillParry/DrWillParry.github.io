@@ -1,6 +1,6 @@
 ---
 date: "2013-08-01"
-client: "Institute of Education, UCL"
+date-format: MMM YYYY
 title: "Experiences of physical activity at age 10 in the 1970 British Cohort Study"
 author:
 - Parry W
@@ -10,6 +10,9 @@ categories:
 - Physical activity
 published:
   <a href="publications/IOE CLS/CLS WP 2013(6) - Experiences of physical activity at age 10 in BCS70.pdf" target="_blank">PDF</a>
+published-title: Date
+abstract: "Institute of Education, UCL"
+abstract-title: Client
 ---
 
 ## Links

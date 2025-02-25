@@ -1,6 +1,6 @@
 ---
 date: "2013-04-01"
-client: "UK Parliament, Commons Select Committee for Education"
+date-format: MMM YYYY
 title: "Education Committee: Written Evidence Submitted by Will Parry, Department of Quantitative Social Science, Institute of Education"
 author:
 - Parry W
@@ -13,6 +13,9 @@ categories:
 published:
   <a href="publications/Commons Select Committee/Evidence submitted by Will Parry.pdf" target="_blank">PDF</a></br>
   <a href="https://publications.parliament.uk/pa/cm201314/cmselect/cmeduc/164/164vw21.htm" target="_blank">Web</a>
+published-title: Date
+abstract: "UK Parliament, Commons Select Committee for Education"
+abstract-title: Client
 ---
 
 ## Links

@@ -1,6 +1,6 @@
 ---
 date: "2019-04-05"
-client: "The Health Foundation"
+date-format: MMM YYYY
 title: "Effect of an integrated care pathway on use of primary and secondary healthcare by patients at high risk of emergency inpatient admission - a matched control cohort study in Tower Hamlets"
 author:
 - Parry W
@@ -13,6 +13,9 @@ categories:
 - Evaluation
 published:
   <a href="https://bmjopen.bmj.com/content/9/6/e026470" target="_blank">Journal article</a></br>
+published-title: Date
+abstract: "The Health Foundation"
+abstract-title: Client
 ---
 
 ## Links

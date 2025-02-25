@@ -1,6 +1,6 @@
 ---
 date: "2017-07-01"
-client: "Department for Education"
+date-format: MMM YYYY
 title: "Evaluation of Pause"
 author:
 - McCracken K
@@ -17,6 +17,9 @@ categories:
 published:
   <a href="publications/Opcit Research/Evaluation_of_Pause.pdf" target="_blank">PDF</a></br>
   <a href="https://www.gov.uk/government/publications/social-care-pause-programme" target="_blank">Web</a>
+published-title: Date
+abstract: "Department for Education"
+abstract-title: Client
 ---
 
 ## Links

@@ -1,6 +1,6 @@
 ---
 date: "2023-03-27"
-client: "Gloucestershire County Council"
+date-format: MMM YYYY
 title: "Moving the Pupilinform online data analysis tool to Power BI"
 author:
 - Parry W
@@ -11,6 +11,9 @@ categories:
 - Monitoring systems
 draft: false
 published: (awaiting permission)
+published-title: Date
+abstract: "Gloucestershire County Council"
+abstract-title: Client
 ---
 
 <!---

@@ -1,6 +1,6 @@
 ---
 date: "2013-06-01"
-client: "NHS National Institute for Health Research (NIHR)"
+date-format: MMM YYYY
 title: "Systematic review of the effects of schools and school environment interventions on health: evidence mapping and synthesis"
 author:
 - Bonnell C
@@ -15,6 +15,9 @@ categories:
 - Young people
 published:
   <a href="https://njl-admin.nihr.ac.uk/document/download/2021369" target="_blank">Journal article</a>
+published-title: Date
+abstract: "NHS National Institute for Health Research (NIHR)"
+abstract-title: Client
 ---
 
 ## Links

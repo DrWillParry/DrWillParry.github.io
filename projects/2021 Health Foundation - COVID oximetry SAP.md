@@ -1,6 +1,6 @@
 ---
 date: "2021-03-01"
-client: "The Health Foundation"
+date-format: MMM YYYY
 title: "Statistical analysis protocol for an evaluation of COVID Oximetry @home using a Regression Discontinuity Design"
 author:
 - Lloyd T
@@ -12,6 +12,9 @@ categories:
 published:
   <a href="publications/Health Foundation/SAP_Oximetry_Regression_Discontinuity_Design.pdf" target="_blank">PDF</a></br>
   <a href="https://www.health.org.uk/funding-and-partnerships/our-partnerships/improvement-analytics-unit/iau-statistical-analytical-protocols" target="_blank">Web</a>
+published-title: Date
+abstract: "The Health Foundation"
+abstract-title: Client
 ---
 
 ## Links

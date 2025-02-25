@@ -1,6 +1,6 @@
 ---
 date: "2015-02-01"
-client: Institute of Education, UCL
+date-format: MMM YYYY
 title: "Do Active Children Become Active Adults? Investigating Experiences of Sport and Exercise Using the 1970 British Cohort Study"
 author:
 - Parry W
@@ -13,6 +13,9 @@ categories:
 published: 
   <a href="publications/PhD/Will Parry PhD Thesis 12-08-2015.pdf" target="_blank">PDF</a></br>
   <a href="https://discovery.ucl.ac.uk/id/eprint/10116527/" target="_blank">Web</a>
+published-title: Date
+abstract: "Institute of Education, UCL"
+abstract-title: Client
 ---
 
 ## Links

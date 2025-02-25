@@ -1,6 +1,6 @@
 ---
 date: "2011-06-01"
-client: "Department for Communities and Local Government"
+date-format: MMM YYYY
 title: "Simple but effective: Local solutions for adults facing multiple deprivation (Adults facing Chronic Exclusion evaluation)"
 author:
 - Jack Cattell 
@@ -17,6 +17,9 @@ categories:
 published: 
   <a href="publications/ACE/ACE summary.pdf" target="_blank">Summary PDF</a></br>
   <a href="publications/ACE/ACE final report.pdf" target="_blank">Report PDF</a>
+published-title: Date
+abstract: "Department for Communities and Local Government"
+abstract-title: client
 ---
 
 ## Links

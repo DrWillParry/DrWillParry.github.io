@@ -1,6 +1,6 @@
 ---
 date: "2024-08-01"
-client: "Our Future Health"
+date-format: MMM YYYY
 title: "Developing a genotyping Quality Monitoring System (QMS)"
 author:
 - Parry W
@@ -12,6 +12,9 @@ categories:
 - Monitoring systems
 draft: false
 published: N/A
+published-title: Date
+abstract: Our Future Health
+abstract-title: Client
 ---
 
 ## Summary

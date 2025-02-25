@@ -1,6 +1,6 @@
 ---
 date: "2019-10-01"
-client: "The Health Foundation"
+date-format: MMM YYYY
 title: "A descriptive analysis of health care use by highcost, high-need patients in England"
 author:
 - Dreyer K
@@ -16,6 +16,9 @@ published:
   <a href="publications/Health Foundation/Health-care-use-by-high-cost-high-need-patients-WP07.pdf" target="_blank">PDF</a></br>
   <a href="https://www.health.org.uk/publications/a-descriptive-analysis-of-health-care-use-by-high-cost-high-need-patients-in-england" target="_blank">Web</a></br>
   <a href="https://github.com/HFAnalyticsLab/High_cost_users" target="_blank">Code</a>
+published-title: Date
+abstract: "The Health Foundation"
+abstract-title: Client
 ---
 
 ## Links

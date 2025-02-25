@@ -1,6 +1,6 @@
 ---
 date: "2022-09-01"
-client: "Our Future Health"
+date-format: MMM YYYY
 title: "Developing dashboards to monitor recruitment of volunteers"
 author:
 - Parry W
@@ -10,6 +10,9 @@ categories:
 - Monitoring systems
 draft: false
 published: N/A
+published-title: Date
+abstract: "Our Future Health"
+abstract-title: Client
 ---
 
 ## Summary

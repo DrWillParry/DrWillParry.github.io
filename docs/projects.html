@@ -70,7 +70,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-client','listing-author','listing-published',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-abstract','listing-author','listing-published',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
       
       searchColumns: ["listing-date","listing-title","listing-author"],
     };
@@ -186,7 +186,7 @@ ul.task-list li input[type="checkbox"] {
          <option value="listing-title-sort" data-direction="asc">
           Title
         </option>
-         <option value="listing-client" data-direction="asc">
+         <option value="listing-abstract" data-direction="asc">
           Client
         </option>
      </select>
@@ -207,18 +207,18 @@ ul.task-list li input[type="checkbox"] {
 <a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
 </th>
 <th>
-<a class="sort" data-sort="listing-client" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Client</a>
+<a class="sort" data-sort="listing-abstract" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Client</a>
 </th>
 <th>
 Authors
 </th>
 <th>
-Published
+Publications
 </th>
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-categories="Descriptive analysis,Public health,Monitoring systems" data-listing-date-sort="1722466800000" data-listing-file-modified-sort="1740490622107" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Developing a genotyping Quality Monitoring System (QMS)" data-listing-filename-sort="2024 Our Future Health - Genotyping QMS.md">
+<tr data-index="0" data-categories="Descriptive analysis,Public health,Monitoring systems" data-listing-date-sort="1722466800000" data-listing-file-modified-sort="1740509526787" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Developing a genotyping Quality Monitoring System (QMS)" data-listing-filename-sort="2024 Our Future Health - Genotyping QMS.md">
 <td>
 <span class="listing-date">Aug 2024</span>
 </td>
@@ -226,7 +226,7 @@ Published
 <a href="./projects/2024 Our Future Health - Genotyping QMS.html" class="title listing-title">Developing a genotyping Quality Monitoring System (QMS)</a>
 </td>
 <td>
-<span class="listing-client">Our Future Health</span>
+<span class="listing-abstract">Our Future Health</span>
 </td>
 <td>
 <span class="listing-author">Parry W, Arathimos R, Ponting L</span>
@@ -235,7 +235,7 @@ Published
 <span class="listing-published">N/A</span>
 </td>
 </tr>
-<tr data-index="1" data-categories="Descriptive analysis,Public health,Monitoring systems" data-listing-date-sort="1711926000000" data-listing-file-modified-sort="1740490930504" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Developing a CSM system to monitor appointment quality" data-listing-filename-sort="2023 Our Future Health - Developing the CSM.md">
+<tr data-index="1" data-categories="Descriptive analysis,Public health,Monitoring systems" data-listing-date-sort="1711926000000" data-listing-file-modified-sort="1740512230805" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Developing a CSM system to monitor appointment quality" data-listing-filename-sort="2023 Our Future Health - Developing the CSM.md">
 <td>
 <span class="listing-date">Apr 2024</span>
 </td>
@@ -243,7 +243,7 @@ Published
 <a href="./projects/2023 Our Future Health - Developing the CSM.html" class="title listing-title">Developing a CSM system to monitor appointment quality</a>
 </td>
 <td>
-<span class="listing-client">Our Future Health</span>
+<span class="listing-abstract">Our Future Health</span>
 </td>
 <td>
 <span class="listing-author">Parry W</span>
@@ -252,7 +252,7 @@ Published
 <span class="listing-published">N/A</span>
 </td>
 </tr>
-<tr data-index="2" data-categories="Journal article,Public health,Evaluation" data-listing-date-sort="1700006400000" data-listing-file-modified-sort="1697732799000" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Continuity of care and consultation mode in general practice: a cross-sectional and longitudinal study using patient-level and practice-level data from before and during the COVID-19 pandemic in England" data-listing-filename-sort="2023 Health Foundation - Consultation mode and continuity of care.md">
+<tr data-index="2" data-categories="Journal article,Public health,Evaluation" data-listing-date-sort="1700006400000" data-listing-file-modified-sort="1740512114800" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Continuity of care and consultation mode in general practice: a cross-sectional and longitudinal study using patient-level and practice-level data from before and during the COVID-19 pandemic in England" data-listing-filename-sort="2023 Health Foundation - Consultation mode and continuity of care.md">
 <td>
 <span class="listing-date">Nov 2023</span>
 </td>
@@ -260,7 +260,7 @@ Published
 <a href="./projects/2023 Health Foundation - Consultation mode and continuity of care.html" class="title listing-title">Continuity of care and consultation mode in general practice: a cross-sectional and longitudinal study using patient-level and practice-level data from before and during the COVID-19 pandemic in England</a>
 </td>
 <td>
-<span class="listing-client">The Health Foundation</span>
+<span class="listing-abstract">The Health Foundation</span>
 </td>
 <td>
 <span class="listing-author">Parry W, Fraser C, Crellin E, Hughes J, Vestesson E, Clarke G M</span>
@@ -269,7 +269,7 @@ Published
 <span class="listing-published"><a href="https://bmjopen.bmj.com/content/13/11/e075152" target="_blank">Journal article</a></span>
 </td>
 </tr>
-<tr data-index="3" data-categories="Exploratory analysis,Education policy,Research report,Monitoring systems" data-listing-date-sort="1679871600000" data-listing-file-modified-sort="1740332038097" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Moving the Pupilinform online data analysis tool to Power BI" data-listing-filename-sort="2023 Gloucestershire County Council - Pupilinform on Power BI.md">
+<tr data-index="3" data-categories="Exploratory analysis,Education policy,Research report,Monitoring systems" data-listing-date-sort="1679871600000" data-listing-file-modified-sort="1740512030023" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Moving the Pupilinform online data analysis tool to Power BI" data-listing-filename-sort="2023 Gloucestershire County Council - Pupilinform on Power BI.md">
 <td>
 <span class="listing-date">Mar 2023</span>
 </td>
@@ -277,7 +277,7 @@ Published
 <a href="./projects/2023 Gloucestershire County Council - Pupilinform on Power BI.html" class="title listing-title">Moving the Pupilinform online data analysis tool to Power BI</a>
 </td>
 <td>
-<span class="listing-client">Gloucestershire County Council</span>
+<span class="listing-abstract">Gloucestershire County Council</span>
 </td>
 <td>
 <span class="listing-author">Parry W</span>
@@ -286,7 +286,7 @@ Published
 <span class="listing-published">(awaiting permission)</span>
 </td>
 </tr>
-<tr data-index="4" data-categories="Descriptive analysis,Public health,Monitoring systems" data-listing-date-sort="1661986800000" data-listing-file-modified-sort="1740492946450" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Developing dashboards to monitor recruitment of volunteers" data-listing-filename-sort="2022 Our Future Health - Recruitment monitoring dashboards.md">
+<tr data-index="4" data-categories="Descriptive analysis,Public health,Monitoring systems" data-listing-date-sort="1661986800000" data-listing-file-modified-sort="1740511977555" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Developing dashboards to monitor recruitment of volunteers" data-listing-filename-sort="2022 Our Future Health - Recruitment monitoring dashboards.md">
 <td>
 <span class="listing-date">Sep 2022</span>
 </td>
@@ -294,7 +294,7 @@ Published
 <a href="./projects/2022 Our Future Health - Recruitment monitoring dashboards.html" class="title listing-title">Developing dashboards to monitor recruitment of volunteers</a>
 </td>
 <td>
-<span class="listing-client">Our Future Health</span>
+<span class="listing-abstract">Our Future Health</span>
 </td>
 <td>
 <span class="listing-author">Parry W</span>
@@ -303,7 +303,7 @@ Published
 <span class="listing-published">N/A</span>
 </td>
 </tr>
-<tr data-index="5" data-categories="Public health,Working paper,Evaluation" data-listing-date-sort="1635724800000" data-listing-file-modified-sort="1688817307829" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="COVID Oximetry @home (CO@h) - Feasibility analysis for evaluation of CO@h using regression discontinuity" data-listing-filename-sort="2021 Health Foundation - COVID oximetry feasibility.md">
+<tr data-index="5" data-categories="Public health,Working paper,Evaluation" data-listing-date-sort="1635724800000" data-listing-file-modified-sort="1740511622914" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="COVID Oximetry @home (CO@h) - Feasibility analysis for evaluation of CO@h using regression discontinuity" data-listing-filename-sort="2021 Health Foundation - COVID oximetry feasibility.md">
 <td>
 <span class="listing-date">Nov 2021</span>
 </td>
@@ -311,7 +311,7 @@ Published
 <a href="./projects/2021 Health Foundation - COVID oximetry feasibility.html" class="title listing-title">COVID Oximetry <span class="citation" data-cites="home">@home</span> (CO@h) - Feasibility analysis for evaluation of CO@h using regression discontinuity</a>
 </td>
 <td>
-<span class="listing-client">The Health Foundation</span>
+<span class="listing-abstract">The Health Foundation</span>
 </td>
 <td>
 <span class="listing-author">Parry W, Lloyd T</span>
@@ -320,7 +320,7 @@ Published
 <span class="listing-published"><a href="publications/Health Foundation/2021 Health Foundation - Feasibility analysis for evaluation of Co@h using regression discontinuity.pdf" target="_blank">PDF</a><br></span>
 </td>
 </tr>
-<tr data-index="6" data-categories="Public health,Protocol,Evaluation" data-listing-date-sort="1614556800000" data-listing-file-modified-sort="1688819268166" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Statistical analysis protocol for an evaluation of COVID Oximetry @home using a Regression Discontinuity Design" data-listing-filename-sort="2021 Health Foundation - COVID oximetry SAP.md">
+<tr data-index="6" data-categories="Public health,Protocol,Evaluation" data-listing-date-sort="1614556800000" data-listing-file-modified-sort="1740511660175" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Statistical analysis protocol for an evaluation of COVID Oximetry @home using a Regression Discontinuity Design" data-listing-filename-sort="2021 Health Foundation - COVID oximetry SAP.md">
 <td>
 <span class="listing-date">Mar 2021</span>
 </td>
@@ -328,7 +328,7 @@ Published
 <a href="./projects/2021 Health Foundation - COVID oximetry SAP.html" class="title listing-title">Statistical analysis protocol for an evaluation of COVID Oximetry <span class="citation" data-cites="home">@home</span> using a Regression Discontinuity Design</a>
 </td>
 <td>
-<span class="listing-client">The Health Foundation</span>
+<span class="listing-abstract">The Health Foundation</span>
 </td>
 <td>
 <span class="listing-author">Lloyd T, Parry W</span>
@@ -337,7 +337,7 @@ Published
 <span class="listing-published"><a href="publications/Health Foundation/SAP_Oximetry_Regression_Discontinuity_Design.pdf" target="_blank">PDF</a><br> <a href="https://www.health.org.uk/funding-and-partnerships/our-partnerships/improvement-analytics-unit/iau-statistical-analytical-protocols" target="_blank">Web</a></span>
 </td>
 </tr>
-<tr data-index="7" data-categories="Working paper,Public health,Descriptive analysis" data-listing-date-sort="1604361600000" data-listing-file-modified-sort="1688818753518" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Common mental health disorders and multimorbidity" data-listing-filename-sort="2020 Health Foundation - Mental health and multimorbidity.md">
+<tr data-index="7" data-categories="Working paper,Public health,Descriptive analysis" data-listing-date-sort="1604361600000" data-listing-file-modified-sort="1740511564539" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Common mental health disorders and multimorbidity" data-listing-filename-sort="2020 Health Foundation - Mental health and multimorbidity.md">
 <td>
 <span class="listing-date">Nov 2020</span>
 </td>
@@ -345,7 +345,7 @@ Published
 <a href="./projects/2020 Health Foundation - Mental health and multimorbidity.html" class="title listing-title">Common mental health disorders and multimorbidity</a>
 </td>
 <td>
-<span class="listing-client">The Health Foundation</span>
+<span class="listing-abstract">The Health Foundation</span>
 </td>
 <td>
 <span class="listing-author">Hodgson K, Stafford M, Parry W</span>
@@ -354,7 +354,7 @@ Published
 <span class="listing-published"><a href="publications/Health Foundation/2020 Health Foundation - Inequalities in health care for people with depression and or anxiety.pdf" target="_blank">PDF</a><br> <a href="https://www.health.org.uk/publications/long-reads/inequalities-in-health-care-for-people-with-depression-and-anxiety" target="_blank">Web</a><br> <a href="https://github.com/HFAnalyticsLab/CMD_multimorbidity" target="_blank">Code</a></span>
 </td>
 </tr>
-<tr data-index="8" data-categories="Education policy,Monitoring systems" data-listing-date-sort="1585267200000" data-listing-file-modified-sort="1740332744997" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Pupilinform online data analysis tool" data-listing-filename-sort="2020 Gloucestershire County Council - Pupilinform.md">
+<tr data-index="8" data-categories="Education policy,Monitoring systems" data-listing-date-sort="1585267200000" data-listing-file-modified-sort="1740511460530" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="Pupilinform online data analysis tool" data-listing-filename-sort="2020 Gloucestershire County Council - Pupilinform.md">
 <td>
 <span class="listing-date">Mar 2020</span>
 </td>
@@ -362,7 +362,7 @@ Published
 <a href="./projects/2020 Gloucestershire County Council - Pupilinform.html" class="title listing-title">Pupilinform online data analysis tool</a>
 </td>
 <td>
-<span class="listing-client">Gloucestershire County Council</span>
+<span class="listing-abstract">Gloucestershire County Council</span>
 </td>
 <td>
 <span class="listing-author">Parry W, Marden R</span>
@@ -371,7 +371,7 @@ Published
 <span class="listing-published">N/A</span>
 </td>
 </tr>
-<tr data-index="9" data-categories="Childcare policy,Economic analysis" data-listing-date-sort="1583020800000" data-listing-file-modified-sort="1688818635538" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Review of the Cost of Providing Quality Childcare Services in Ireland" data-listing-filename-sort="2020 Apteligen - Costs of childcare.md">
+<tr data-index="9" data-categories="Childcare policy,Economic analysis" data-listing-date-sort="1583020800000" data-listing-file-modified-sort="1740511377280" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Review of the Cost of Providing Quality Childcare Services in Ireland" data-listing-filename-sort="2020 Apteligen - Costs of childcare.md">
 <td>
 <span class="listing-date">Mar 2020</span>
 </td>
@@ -379,7 +379,7 @@ Published
 <a href="./projects/2020 Apteligen - Costs of childcare.html" class="title listing-title">Review of the Cost of Providing Quality Childcare Services in Ireland</a>
 </td>
 <td>
-<span class="listing-client">Irish Government, Department of Children and Youth Affairs</span>
+<span class="listing-abstract">Irish Government, Department of Children and Youth Affairs</span>
 </td>
 <td>
 <span class="listing-author">Crowe , Mackay S, Parry W</span>
@@ -388,7 +388,7 @@ Published
 <span class="listing-published"><a href="publications/Apteligen/2020 Crowe - Costs of Childcare - Summary.pdf" target="_blank">Summary PDF</a><br> <a href="publications/Apteligen/2020 Crowe - Costs of Childcare - Final.pdf" target="_blank">Report PDF</a></span>
 </td>
 </tr>
-<tr data-index="10" data-categories="Working paper,Descriptive analysis,Economic analysis,Public health" data-listing-date-sort="1569884400000" data-listing-file-modified-sort="1688818495734" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="A descriptive analysis of health care use by highcost, high-need patients in England" data-listing-filename-sort="2019 Health Foundation - High cost high need patients.md">
+<tr data-index="10" data-categories="Working paper,Descriptive analysis,Economic analysis,Public health" data-listing-date-sort="1569884400000" data-listing-file-modified-sort="1740511288059" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="A descriptive analysis of health care use by highcost, high-need patients in England" data-listing-filename-sort="2019 Health Foundation - High cost high need patients.md">
 <td>
 <span class="listing-date">Oct 2019</span>
 </td>
@@ -396,7 +396,7 @@ Published
 <a href="./projects/2019 Health Foundation - High cost high need patients.html" class="title listing-title">A descriptive analysis of health care use by highcost, high-need patients in England</a>
 </td>
 <td>
-<span class="listing-client">The Health Foundation</span>
+<span class="listing-abstract">The Health Foundation</span>
 </td>
 <td>
 <span class="listing-author">Dreyer K, Parry W, Jayatunga W, Deeny S</span>
@@ -405,7 +405,7 @@ Published
 <span class="listing-published"><a href="publications/Health Foundation/Health-care-use-by-high-cost-high-need-patients-WP07.pdf" target="_blank">PDF</a><br> <a href="https://www.health.org.uk/publications/a-descriptive-analysis-of-health-care-use-by-high-cost-high-need-patients-in-england" target="_blank">Web</a><br> <a href="https://github.com/HFAnalyticsLab/High_cost_users" target="_blank">Code</a></span>
 </td>
 </tr>
-<tr data-index="11" data-categories="Journal article,Public health,Evaluation" data-listing-date-sort="1554418800000" data-listing-file-modified-sort="1688817185380" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Effect of an integrated care pathway on use of primary and secondary healthcare by patients at high risk of emergency inpatient admission - a matched control cohort study in Tower Hamlets" data-listing-filename-sort="2019 Health Foundation - Tower Hamlets Integrated Care.md">
+<tr data-index="11" data-categories="Journal article,Public health,Evaluation" data-listing-date-sort="1554418800000" data-listing-file-modified-sort="1740511314779" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Effect of an integrated care pathway on use of primary and secondary healthcare by patients at high risk of emergency inpatient admission - a matched control cohort study in Tower Hamlets" data-listing-filename-sort="2019 Health Foundation - Tower Hamlets Integrated Care.md">
 <td>
 <span class="listing-date">Apr 2019</span>
 </td>
@@ -413,7 +413,7 @@ Published
 <a href="./projects/2019 Health Foundation - Tower Hamlets Integrated Care.html" class="title listing-title">Effect of an integrated care pathway on use of primary and secondary healthcare by patients at high risk of emergency inpatient admission - a matched control cohort study in Tower Hamlets</a>
 </td>
 <td>
-<span class="listing-client">The Health Foundation</span>
+<span class="listing-abstract">The Health Foundation</span>
 </td>
 <td>
 <span class="listing-author">Parry W, Wolters A T, Brine R J, Steventon A</span>
@@ -422,7 +422,7 @@ Published
 <span class="listing-published"><a href="https://bmjopen.bmj.com/content/9/6/e026470" target="_blank">Journal article</a><br></span>
 </td>
 </tr>
-<tr data-index="12" data-categories="Research report,Evaluation,Vulnerable women" data-listing-date-sort="1498863600000" data-listing-file-modified-sort="1689156195617" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Evaluation of Pause" data-listing-filename-sort="2017 Opcit - Evaluation of Pause.md">
+<tr data-index="12" data-categories="Research report,Evaluation,Vulnerable women" data-listing-date-sort="1498863600000" data-listing-file-modified-sort="1740511244330" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Evaluation of Pause" data-listing-filename-sort="2017 Opcit - Evaluation of Pause.md">
 <td>
 <span class="listing-date">Jul 2017</span>
 </td>
@@ -430,7 +430,7 @@ Published
 <a href="./projects/2017 Opcit - Evaluation of Pause.html" class="title listing-title">Evaluation of Pause</a>
 </td>
 <td>
-<span class="listing-client">Department for Education</span>
+<span class="listing-abstract">Department for Education</span>
 </td>
 <td>
 <span class="listing-author">McCracken K, Priest S, FitzSimons A, Bracewell K, Torchia K, Parry W, Stanley N</span>
@@ -439,7 +439,7 @@ Published
 <span class="listing-published"><a href="publications/Opcit Research/Evaluation_of_Pause.pdf" target="_blank">PDF</a><br> <a href="https://www.gov.uk/government/publications/social-care-pause-programme" target="_blank">Web</a></span>
 </td>
 </tr>
-<tr data-index="13" data-categories="Research report,Descriptive analysis,Older people,Housing" data-listing-date-sort="1443654000000" data-listing-file-modified-sort="1689156306809" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Older Owners - Research on the lives, aspirations and housing outcomes of older homeowners in the UK" data-listing-filename-sort="2015 Strategic Society - Older Owners.md">
+<tr data-index="13" data-categories="Research report,Descriptive analysis,Older people,Housing" data-listing-date-sort="1443654000000" data-listing-file-modified-sort="1740511192899" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Older Owners - Research on the lives, aspirations and housing outcomes of older homeowners in the UK" data-listing-filename-sort="2015 Strategic Society - Older Owners.md">
 <td>
 <span class="listing-date">Oct 2015</span>
 </td>
@@ -447,7 +447,7 @@ Published
 <a href="./projects/2015 Strategic Society - Older Owners.html" class="title listing-title">Older Owners - Research on the lives, aspirations and housing outcomes of older homeowners in the UK</a>
 </td>
 <td>
-<span class="listing-client">The Strategic Society Centre</span>
+<span class="listing-abstract">The Strategic Society Centre</span>
 </td>
 <td>
 <span class="listing-author">Lloyd J, Parry W</span>
@@ -456,7 +456,7 @@ Published
 <span class="listing-published"><a href="publications/Strategic Society Centre/Older-Owners.pdf" target="_blank">Research PDF</a><br> <a href="publications/Strategic Society Centre/Open-Plan-Building-a-strategic-policy-toward-older-owners.pdf" target="_blank">Policy PDF</a></span>
 </td>
 </tr>
-<tr data-index="14" data-categories="Research report,Exploratory analysis,Older people,Retirement income" data-listing-date-sort="1435705200000" data-listing-file-modified-sort="1688818224366" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Income security and a good retirement" data-listing-filename-sort="2015 Strategic Society - Income security.md">
+<tr data-index="14" data-categories="Research report,Exploratory analysis,Older people,Retirement income" data-listing-date-sort="1435705200000" data-listing-file-modified-sort="1740511027036" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Income security and a good retirement" data-listing-filename-sort="2015 Strategic Society - Income security.md">
 <td>
 <span class="listing-date">Jul 2015</span>
 </td>
@@ -464,7 +464,7 @@ Published
 <a href="./projects/2015 Strategic Society - Income security.html" class="title listing-title">Income security and a good retirement</a>
 </td>
 <td>
-<span class="listing-client">The Strategic Society Centre</span>
+<span class="listing-abstract">The Strategic Society Centre</span>
 </td>
 <td>
 <span class="listing-author">Parry W, Lloyd J</span>
@@ -473,7 +473,7 @@ Published
 <span class="listing-published"><a href="publications/Strategic Society Centre/Income-Security-and-a-Good-Retirement.pdf" target="_blank">Research PDF</a><br> <a href="publications/Strategic Society Centre/Income-Security-and-Wellbeing.pdf" target="_blank">Policy PDF</a></span>
 </td>
 </tr>
-<tr data-index="15" data-categories="Research report,Exploratory analysis,Gender equality" data-listing-date-sort="1427842800000" data-listing-file-modified-sort="1688818107457" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Analysis of political parties' and independent candidates' policies for gender balance in the European Parliament after the elections of 2014" data-listing-filename-sort="2015 Opcit - Gender equality in the European Parliament.md">
+<tr data-index="15" data-categories="Research report,Exploratory analysis,Gender equality" data-listing-date-sort="1427842800000" data-listing-file-modified-sort="1740510667035" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Analysis of political parties' and independent candidates' policies for gender balance in the European Parliament after the elections of 2014" data-listing-filename-sort="2015 Opcit - Gender equality in the European Parliament.md">
 <td>
 <span class="listing-date">Apr 2015</span>
 </td>
@@ -481,7 +481,7 @@ Published
 <a href="./projects/2015 Opcit - Gender equality in the European Parliament.html" class="title listing-title">Analysis of political parties’ and independent candidates’ policies for gender balance in the European Parliament after the elections of 2014</a>
 </td>
 <td>
-<span class="listing-client">European Commission</span>
+<span class="listing-abstract">European Commission</span>
 </td>
 <td>
 <span class="listing-author">McCracken K, Lovenduski J, Marquez S, Parry W, Niżyńska A, Várnagy R, Ghailani D, Šidlauskienė V</span>
@@ -490,7 +490,7 @@ Published
 <span class="listing-published"><a href="publications/Opcit Research/IPOL_STU(2015)536448_EN.pdf" target="_blank">PDF</a></span>
 </td>
 </tr>
-<tr data-index="16" data-categories="PhD thesis,Physical activity,Public health,Education policy,Sport policy" data-listing-date-sort="1422748800000" data-listing-file-modified-sort="1688818062690" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Do Active Children Become Active Adults? Investigating Experiences of Sport and Exercise Using the 1970 British Cohort Study" data-listing-filename-sort="2015 IOE - PhD thesis.md">
+<tr data-index="16" data-categories="PhD thesis,Physical activity,Public health,Education policy,Sport policy" data-listing-date-sort="1422748800000" data-listing-file-modified-sort="1740510627795" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Do Active Children Become Active Adults? Investigating Experiences of Sport and Exercise Using the 1970 British Cohort Study" data-listing-filename-sort="2015 IOE - PhD thesis.md">
 <td>
 <span class="listing-date">Feb 2015</span>
 </td>
@@ -498,7 +498,7 @@ Published
 <a href="./projects/2015 IOE - PhD thesis.html" class="title listing-title">Do Active Children Become Active Adults? Investigating Experiences of Sport and Exercise Using the 1970 British Cohort Study</a>
 </td>
 <td>
-<span class="listing-client">Institute of Education, UCL</span>
+<span class="listing-abstract">Institute of Education, UCL</span>
 </td>
 <td>
 <span class="listing-author">Parry W</span>
@@ -507,7 +507,7 @@ Published
 <span class="listing-published"><a href="publications/PhD/Will Parry PhD Thesis 12-08-2015.pdf" target="_blank">PDF</a><br> <a href="https://discovery.ucl.ac.uk/id/eprint/10116527/" target="_blank">Web</a></span>
 </td>
 </tr>
-<tr data-index="17" data-categories="Working paper,Young people,Physical activity" data-listing-date-sort="1375311600000" data-listing-file-modified-sort="1688818002782" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Experiences of physical activity at age 10 in the 1970 British Cohort Study" data-listing-filename-sort="2013 IOE - Experiences of physical activity at age 10.md">
+<tr data-index="17" data-categories="Working paper,Young people,Physical activity" data-listing-date-sort="1375311600000" data-listing-file-modified-sort="1740510593834" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Experiences of physical activity at age 10 in the 1970 British Cohort Study" data-listing-filename-sort="2013 IOE - Experiences of physical activity at age 10.md">
 <td>
 <span class="listing-date">Aug 2013</span>
 </td>
@@ -515,7 +515,7 @@ Published
 <a href="./projects/2013 IOE - Experiences of physical activity at age 10.html" class="title listing-title">Experiences of physical activity at age 10 in the 1970 British Cohort Study</a>
 </td>
 <td>
-<span class="listing-client">Institute of Education, UCL</span>
+<span class="listing-abstract">Institute of Education, UCL</span>
 </td>
 <td>
 <span class="listing-author">Parry W</span>
@@ -524,7 +524,7 @@ Published
 <span class="listing-published"><a href="publications/IOE CLS/CLS WP 2013(6) - Experiences of physical activity at age 10 in BCS70.pdf" target="_blank">PDF</a></span>
 </td>
 </tr>
-<tr data-index="18" data-categories="Journal article,Systematic review,Young people" data-listing-date-sort="1370041200000" data-listing-file-modified-sort="1688819198947" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Systematic review of the effects of schools and school environment interventions on health: evidence mapping and synthesis" data-listing-filename-sort="2013 Bonnell - Systematic review schools and health.md">
+<tr data-index="18" data-categories="Journal article,Systematic review,Young people" data-listing-date-sort="1370041200000" data-listing-file-modified-sort="1740510453912" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Systematic review of the effects of schools and school environment interventions on health: evidence mapping and synthesis" data-listing-filename-sort="2013 Bonnell - Systematic review schools and health.md">
 <td>
 <span class="listing-date">Jun 2013</span>
 </td>
@@ -532,7 +532,7 @@ Published
 <a href="./projects/2013 Bonnell - Systematic review schools and health.html" class="title listing-title">Systematic review of the effects of schools and school environment interventions on health: evidence mapping and synthesis</a>
 </td>
 <td>
-<span class="listing-client">NHS National Institute for Health Research (NIHR)</span>
+<span class="listing-abstract">NHS National Institute for Health Research (NIHR)</span>
 </td>
 <td>
 <span class="listing-author">Bonnell C, Jamal F, Harden A, Wells H, Parry W, Fletcher A</span>
@@ -541,7 +541,7 @@ Published
 <span class="listing-published"><a href="https://njl-admin.nihr.ac.uk/document/download/2021369" target="_blank">Journal article</a></span>
 </td>
 </tr>
-<tr data-index="19" data-categories="Select Committee,Physical activity,Young people,Education policy,Sport policy" data-listing-date-sort="1364770800000" data-listing-file-modified-sort="1688819217562" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Education Committee: Written Evidence Submitted by Will Parry, Department of Quantitative Social Science, Institute of Education" data-listing-filename-sort="2013 Commons Select Committee - Evidence from Will Parry.md">
+<tr data-index="19" data-categories="Select Committee,Physical activity,Young people,Education policy,Sport policy" data-listing-date-sort="1364770800000" data-listing-file-modified-sort="1740510499247" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-title-sort="Education Committee: Written Evidence Submitted by Will Parry, Department of Quantitative Social Science, Institute of Education" data-listing-filename-sort="2013 Commons Select Committee - Evidence from Will Parry.md">
 <td>
 <span class="listing-date">Apr 2013</span>
 </td>
@@ -549,7 +549,7 @@ Published
 <a href="./projects/2013 Commons Select Committee - Evidence from Will Parry.html" class="title listing-title">Education Committee: Written Evidence Submitted by Will Parry, Department of Quantitative Social Science, Institute of Education</a>
 </td>
 <td>
-<span class="listing-client">UK Parliament, Commons Select Committee for Education</span>
+<span class="listing-abstract">UK Parliament, Commons Select Committee for Education</span>
 </td>
 <td>
 <span class="listing-author">Parry W</span>
@@ -558,7 +558,7 @@ Published
 <span class="listing-published"><a href="publications/Commons Select Committee/Evidence submitted by Will Parry.pdf" target="_blank">PDF</a><br> <a href="https://publications.parliament.uk/pa/cm201314/cmselect/cmeduc/164/164vw21.htm" target="_blank">Web</a></span>
 </td>
 </tr>
-<tr data-index="20" data-categories="Journal article,Systematic review,Young people,Drugs and alcohol" data-listing-date-sort="1356998400000" data-listing-file-modified-sort="1688819185194" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="The effects of the school environment on student health - A systematic review of multi-level studies" data-listing-filename-sort="2013 Bonnell - Review of multilevel modelling studies.md">
+<tr data-index="20" data-categories="Journal article,Systematic review,Young people,Drugs and alcohol" data-listing-date-sort="1356998400000" data-listing-file-modified-sort="1740510396836" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-title-sort="The effects of the school environment on student health - A systematic review of multi-level studies" data-listing-filename-sort="2013 Bonnell - Review of multilevel modelling studies.md">
 <td>
 <span class="listing-date">Jan 2013</span>
 </td>
@@ -566,7 +566,7 @@ Published
 <a href="./projects/2013 Bonnell - Review of multilevel modelling studies.html" class="title listing-title">The effects of the school environment on student health - A systematic review of multi-level studies</a>
 </td>
 <td>
-<span class="listing-client">NHS National Institute for Health Research (NIHR)</span>
+<span class="listing-abstract">NHS National Institute for Health Research (NIHR)</span>
 </td>
 <td>
 <span class="listing-author">Bonnell C, Parry W, Wells H, Jamal F, Fletcher A, Harden A, Thomas J, Campbell R, Petticrew M, Murphy S, Whitehead M, Moore L</span>
@@ -575,7 +575,7 @@ Published
 <span class="listing-published"><a href="https://www.sciencedirect.com/science/article/pii/S1353829212001980" target="_blank">Journal article</a></span>
 </td>
 </tr>
-<tr data-index="21" data-categories="Public policy,Social exclusion,Evaluation" data-listing-date-sort="1306882800000" data-listing-file-modified-sort="1688817754674" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Simple but effective: Local solutions for adults facing multiple deprivation (Adults facing Chronic Exclusion evaluation)" data-listing-filename-sort="2011 DCLG - ACE evaluation.md">
+<tr data-index="21" data-categories="Public policy,Social exclusion,Evaluation" data-listing-date-sort="1306882800000" data-listing-file-modified-sort="1740510045816" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-title-sort="Simple but effective: Local solutions for adults facing multiple deprivation (Adults facing Chronic Exclusion evaluation)" data-listing-filename-sort="2011 DCLG - ACE evaluation.md">
 <td>
 <span class="listing-date">Jun 2011</span>
 </td>
@@ -583,7 +583,7 @@ Published
 <a href="./projects/2011 DCLG - ACE evaluation.html" class="title listing-title">Simple but effective: Local solutions for adults facing multiple deprivation (Adults facing Chronic Exclusion evaluation)</a>
 </td>
 <td>
-<span class="listing-client">Department for Communities and Local Government</span>
+<span class="listing-abstract">Department for Communities and Local Government</span>
 </td>
 <td>
 <span class="listing-author">Jack Cattell, Alan Mackie, Kate Gibson, Tom Hitchins, Will Parry, Lucas Porsch, Joe Savage</span>

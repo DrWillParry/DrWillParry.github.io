@@ -1,6 +1,6 @@
 ---
 date: "2013-01-01"
-client: "NHS National Institute for Health Research (NIHR)"
+date-format: MMM YYYY
 title: "The effects of the school environment on student health - A systematic review of multi-level studies"
 author:
 - Bonnell C
@@ -22,6 +22,9 @@ categories:
 - Drugs and alcohol
 published:
   <a href="https://www.sciencedirect.com/science/article/pii/S1353829212001980" target="_blank">Journal article</a>
+published-title: Date
+abstract: "NHS National Institute for Health Research (NIHR)"
+abstract-title: Client
 ---
 
 ## Links

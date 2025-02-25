@@ -1,6 +1,6 @@
 ---
 date: "Nov 2021"
-client: "The Health Foundation"
+date-format: MMM YYYY
 title: "COVID Oximetry @home (CO@h) - Feasibility analysis for evaluation of CO@h using regression discontinuity"
 author:
 - Parry W
@@ -11,6 +11,9 @@ categories:
 - Evaluation
 published: 
   <a href="publications/Health Foundation/2021 Health Foundation - Feasibility analysis for evaluation of Co@h using regression discontinuity.pdf" target="_blank">PDF</a></br>
+published-title: Date
+abstract: "The Health Foundation"
+abstract-title: Client
 ---
 
 ## Links

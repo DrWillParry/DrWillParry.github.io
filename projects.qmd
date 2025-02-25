@@ -8,13 +8,13 @@ listing:
     - "title"
   table-striped: true
   table-hover: false
-  sort-ui: [date, title, client]
+  sort-ui: [date, title, abstract]
   page-size: 999
   categories: true
-  fields: [date, title, client, author, published]
+  fields: [date, title, abstract, author, published]
   field-display-names:
-    client: "Client"
-    published: "Published"
+    abstract: "Client"
+    published: "Publications"
     author: "Authors"
   date-format: MMM YYYY
 format: 

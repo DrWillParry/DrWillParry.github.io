@@ -1,6 +1,6 @@
 ---
 date: "2015-04-01"
-client: European Commission
+date-format: MMM YYYY
 title: "Analysis of political parties' and independent candidates' policies for gender balance in the European Parliament after the elections of 2014"
 author:
 - McCracken K
@@ -17,6 +17,9 @@ categories:
 - Gender equality
 published:
   <a href="publications/Opcit Research/IPOL_STU(2015)536448_EN.pdf" target="_blank">PDF</a>
+published-title: Date
+abstract: European Commission
+abstract-title: Client
 ---
 
 ## Links

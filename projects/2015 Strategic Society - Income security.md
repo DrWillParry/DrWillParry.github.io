@@ -1,6 +1,6 @@
 ---
 date: "2015-07-01"
-client: "The Strategic Society Centre"
+date-format: MMM YYYY
 title: "Income security and a good retirement"
 author:
 - Parry W
@@ -13,6 +13,9 @@ categories:
 published:
   <a href="publications/Strategic Society Centre/Income-Security-and-a-Good-Retirement.pdf" target="_blank">Research PDF</a></br>
   <a href="publications/Strategic Society Centre/Income-Security-and-Wellbeing.pdf" target="_blank">Policy PDF</a>
+published-title: Date
+abstract: "The Strategic Society Centre"
+abstract-title: Client
 ---
 
 ## Links

@@ -1,6 +1,6 @@
 ---
 date: "2023-11-15"
-client: "The Health Foundation"
+date-format: MMM YYYY
 title: "Continuity of care and consultation mode in general practice: a cross-sectional and longitudinal study using patient-level and practice-level data from before and during the COVID-19 pandemic in England"
 author:
 - Parry W
@@ -16,6 +16,9 @@ categories:
 draft: false
 published:
   <a href="https://bmjopen.bmj.com/content/13/11/e075152" target="_blank">Journal article</a>
+published-title: Date
+abstract: "The Health Foundation"
+abstract-title: Client
 ---
 
 ## Links
