@@ -166,7 +166,6 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<!-- template: projects/listing_template.ejs -->
 
 
 
@@ -187,6 +186,9 @@ ul.task-list li input[type="checkbox"] {
          <option value="listing-title-sort" data-direction="asc">
           Title
         </option>
+         <option value="listing-client" data-direction="asc">
+          Client
+        </option>
      </select>
   </div>
     <div class="input-group input-group-sm quarto-listing-filter">
@@ -205,10 +207,10 @@ ul.task-list li input[type="checkbox"] {
 <a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
 </th>
 <th>
-client
+<a class="sort" data-sort="listing-client" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Client</a>
 </th>
 <th>
-Author
+Authors
 </th>
 <th>
 Published
