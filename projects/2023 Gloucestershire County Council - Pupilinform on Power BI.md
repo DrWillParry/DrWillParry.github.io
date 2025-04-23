@@ -10,17 +10,18 @@ categories:
 - Research report
 - Monitoring systems
 draft: false
-published: (awaiting permission)
+published:
+  <a href="publications/RM Insight/PowerBI_proof_of_concept_report.pdf" target="_blank">PDF</a>
 published-title: Date
 abstract: "Gloucestershire County Council"
 abstract-title: Client
 ---
 
-<!---
+
 ## Links
 
-* <a href="https://bmjopen.bmj.com/content/13/11/e075152" target="_blank">Journal article</a>
---->
+* <a href="publications/RM Insight/PowerBI_proof_of_concept_report.pdf" target="_blank">PDF</a>
+
 
 ## Introduction
 
