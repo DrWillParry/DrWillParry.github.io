@@ -23,7 +23,7 @@ abstract-title: Client
 
 ## Links
 
-* <a href="publications/Health Foundation/Health-care-use-by-high-cost-high-need-patients-WP07.pdf" target="_blank">PDF</a></br>
+* <a href="../publications/Health Foundation/Health-care-use-by-high-cost-high-need-patients-WP07.pdf" target="_blank">PDF</a></br>
 * <a href="https://www.health.org.uk/publications/a-descriptive-analysis-of-health-care-use-by-high-cost-high-need-patients-in-england" target="_blank">Web</a></br>
 * <a href="https://github.com/HFAnalyticsLab/High_cost_users" target="_blank">Code</a>
 

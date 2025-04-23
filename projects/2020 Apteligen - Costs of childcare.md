@@ -20,8 +20,8 @@ abstract-title: Client
 
 ## Links
 
-* <a href="publications/Apteligen/2020 Crowe - Costs of Childcare - Summary.pdf" target="_blank">Summary PDF</a>
-* <a href="publications/Apteligen/2020 Crowe - Costs of Childcare - Final.pdf" target="_blank">Report PDF</a>
+* <a href="../publications/Apteligen/2020 Crowe - Costs of Childcare - Summary.pdf" target="_blank">Summary PDF</a>
+* <a href="../publications/Apteligen/2020 Crowe - Costs of Childcare - Final.pdf" target="_blank">Report PDF</a>
 
 
 ## Summary

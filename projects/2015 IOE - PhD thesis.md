@@ -20,7 +20,7 @@ abstract-title: Client
 
 ## Links
 
-* <a href="publications/PhD/Will Parry PhD Thesis 12-08-2015.pdf" target="_blank">PDF</a></br>
+* <a href="../publications/PhD/Will Parry PhD Thesis 12-08-2015.pdf" target="_blank">PDF</a></br>
 * <a href="https://discovery.ucl.ac.uk/id/eprint/10116527/" target="_blank">Web</a>
 
 ## Abstract

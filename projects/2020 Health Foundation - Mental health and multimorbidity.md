@@ -22,7 +22,7 @@ abstract-title: Client
 
 ## Links
 
-* <a href="publications/Health Foundation/2020 Health Foundation - Inequalities in health care for people with depression and or anxiety.pdf" target="_blank">PDF</a></br>
+* <a href="../publications/Health Foundation/2020 Health Foundation - Inequalities in health care for people with depression and or anxiety.pdf" target="_blank">PDF</a></br>
 * <a href="https://www.health.org.uk/publications/long-reads/inequalities-in-health-care-for-people-with-depression-and-anxiety" target="_blank">Web</a></br>
 * <a href="https://github.com/HFAnalyticsLab/CMD_multimorbidity" target="_blank">Code</a>
 

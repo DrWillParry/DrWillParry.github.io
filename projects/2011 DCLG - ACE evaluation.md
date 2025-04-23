@@ -24,8 +24,8 @@ abstract-title: client
 
 ## Links
 
-* <a href="publications/ACE/ACE summary.pdf" target="_blank">Summary PDF</a></br>
-* <a href="publications/ACE/ACE final report.pdf" target="_blank">Report PDF</a>
+* <a href="../publications/ACE/ACE summary.pdf" target="_blank">Summary PDF</a></br>
+* <a href="../publications/ACE/ACE final report.pdf" target="_blank">Report PDF</a>
 
 ## Summary
 

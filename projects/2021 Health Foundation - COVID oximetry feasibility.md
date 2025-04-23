@@ -18,7 +18,7 @@ abstract-title: Client
 
 ## Links
 
-* <a href="publications/Health Foundation/2021 Health Foundation - Feasibility analysis for evaluation of Co@h using regression discontinuity.pdf" target="_blank">PDF</a></br>
+* <a href="../publications/Health Foundation/2021 Health Foundation - Feasibility analysis for evaluation of Co@h using regression discontinuity.pdf" target="_blank">PDF</a></br>
 
 ## Summary
 

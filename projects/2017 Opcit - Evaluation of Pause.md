@@ -24,7 +24,7 @@ abstract-title: Client
 
 ## Links
 
-* <a href="publications/Opcit Research/Evaluation_of_Pause.pdf" target="_blank">PDF</a></br>
+* <a href="../publications/Opcit Research/Evaluation_of_Pause.pdf" target="_blank">PDF</a></br>
 * <a href="https://www.gov.uk/government/publications/social-care-pause-programme" target="_blank">Web</a>
 
 

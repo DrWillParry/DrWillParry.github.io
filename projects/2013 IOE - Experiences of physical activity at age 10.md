@@ -17,7 +17,7 @@ abstract-title: Client
 
 ## Links
 
-* <a href="publications/IOE CLS/CLS WP 2013(6) - Experiences of physical activity at age 10 in BCS70.pdf" target="_blank">PDF</a>
+* <a href="../publications/IOE CLS/CLS WP 2013(6) - Experiences of physical activity at age 10 in BCS70.pdf" target="_blank">PDF</a>
 
 ## Abstract
 

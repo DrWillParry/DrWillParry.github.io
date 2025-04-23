@@ -20,7 +20,7 @@ abstract-title: Client
 
 ## Links
 
-* <a href="publications/Commons Select Committee/Evidence submitted by Will Parry.pdf" target="_blank">PDF</a></br>
+* <a href="../publications/Commons Select Committee/Evidence submitted by Will Parry.pdf" target="_blank">PDF</a></br>
 * <a href="https://publications.parliament.uk/pa/cm201314/cmselect/cmeduc/164/164vw21.htm" target="_blank">Web</a>
 
 ## Abstract

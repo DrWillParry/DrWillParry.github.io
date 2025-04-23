@@ -19,7 +19,7 @@ abstract-title: Client
 
 ## Links
 
-* <a href="publications/Health Foundation/SAP_Oximetry_Regression_Discontinuity_Design.pdf" target="_blank">PDF</a></br>
+* <a href="../publications/Health Foundation/SAP_Oximetry_Regression_Discontinuity_Design.pdf" target="_blank">PDF</a></br>
 * <a href="https://www.health.org.uk/funding-and-partnerships/our-partnerships/improvement-analytics-unit/iau-statistical-analytical-protocols" target="_blank">Web</a>
 
 

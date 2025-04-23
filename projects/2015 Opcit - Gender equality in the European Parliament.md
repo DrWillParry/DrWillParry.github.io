@@ -24,7 +24,7 @@ abstract-title: Client
 
 ## Links
 
-* <a href="publications/Opcit Research/IPOL_STU(2015)536448_EN.pdf" target="_blank">PDF</a>
+* <a href="../publications/Opcit Research/IPOL_STU(2015)536448_EN.pdf" target="_blank">PDF</a>
 
 
 ## Abstract
