@@ -20,7 +20,7 @@ abstract-title: Client
 
 ## Links
 
-* <a href="/publications/RM Insight/PowerBI_proof_of_concept_report.pdf" target="_blank">PDF</a>
+* <a href="../publications/RM Insight/PowerBI_proof_of_concept_report.pdf" target="_blank">PDF</a>
 
 
 ## Introduction
